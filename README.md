@@ -6,7 +6,7 @@
 
 
 Welcome to your capstone project for the Advanced Machine Learning course. This project aims to bridge theory and practice by applying ML techniques to real-world telematics data collected from MEMS (Micro-Electro-Mechanical Systems) sensors in vehicles. You will engage in a comprehensive analysis that includes data preprocessing, exploratory data analysis, distance metrics for trajectories, modeling, and interpretation of results. This project is designed to reinforce your understanding of machine learning concepts and enhance your practical skills.
-
+<img align='center' src ='mines.png'>
 
 ## Table of Contents : 
 ### [Trajectory Clustering for Dumpers]()
