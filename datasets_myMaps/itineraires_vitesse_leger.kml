@@ -1,0 +1,3132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2107">
+        <Style id="2110">
+            <LineStyle id="2111">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2114">
+            <IconStyle id="2115">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2116">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2119">
+            <IconStyle id="2120">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2121">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2124">
+            <LineStyle id="2125">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2128">
+            <IconStyle id="2129">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2130">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2133">
+            <IconStyle id="2134">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2135">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2138">
+            <LineStyle id="2139">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2142">
+            <IconStyle id="2143">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2144">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2147">
+            <IconStyle id="2148">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2149">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2152">
+            <LineStyle id="2153">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2156">
+            <IconStyle id="2157">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2158">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2161">
+            <IconStyle id="2162">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2163">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2166">
+            <LineStyle id="2167">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2170">
+            <IconStyle id="2171">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2172">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2175">
+            <IconStyle id="2176">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2177">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2180">
+            <LineStyle id="2181">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2184">
+            <IconStyle id="2185">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2186">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2189">
+            <IconStyle id="2190">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2191">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2194">
+            <LineStyle id="2195">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2198">
+            <IconStyle id="2199">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2200">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2203">
+            <IconStyle id="2204">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2205">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2208">
+            <LineStyle id="2209">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2212">
+            <IconStyle id="2213">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2214">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2217">
+            <IconStyle id="2218">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2219">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2222">
+            <LineStyle id="2223">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2226">
+            <IconStyle id="2227">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2228">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2231">
+            <IconStyle id="2232">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2233">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2236">
+            <LineStyle id="2237">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2240">
+            <IconStyle id="2241">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2242">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2245">
+            <IconStyle id="2246">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2247">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2250">
+            <LineStyle id="2251">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2254">
+            <IconStyle id="2255">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2256">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2259">
+            <IconStyle id="2260">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2261">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2264">
+            <LineStyle id="2265">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2268">
+            <IconStyle id="2269">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2270">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2273">
+            <IconStyle id="2274">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2275">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2278">
+            <LineStyle id="2279">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2282">
+            <IconStyle id="2283">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2284">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2287">
+            <IconStyle id="2288">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2289">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2292">
+            <LineStyle id="2293">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2296">
+            <IconStyle id="2297">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2298">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2301">
+            <IconStyle id="2302">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2303">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2306">
+            <LineStyle id="2307">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2310">
+            <IconStyle id="2311">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2312">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2315">
+            <IconStyle id="2316">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2317">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2320">
+            <LineStyle id="2321">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2324">
+            <IconStyle id="2325">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2326">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2329">
+            <IconStyle id="2330">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2331">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2334">
+            <LineStyle id="2335">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2338">
+            <IconStyle id="2339">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2340">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2343">
+            <IconStyle id="2344">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2345">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2348">
+            <LineStyle id="2349">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2352">
+            <IconStyle id="2353">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2354">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2357">
+            <IconStyle id="2358">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2359">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2362">
+            <LineStyle id="2363">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2366">
+            <IconStyle id="2367">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2368">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2371">
+            <IconStyle id="2372">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2373">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2376">
+            <LineStyle id="2377">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2380">
+            <IconStyle id="2381">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2382">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2385">
+            <IconStyle id="2386">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2387">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2390">
+            <LineStyle id="2391">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2394">
+            <IconStyle id="2395">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2396">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2399">
+            <IconStyle id="2400">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2401">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2404">
+            <LineStyle id="2405">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2408">
+            <IconStyle id="2409">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2410">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2413">
+            <IconStyle id="2414">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2415">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2418">
+            <LineStyle id="2419">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2422">
+            <IconStyle id="2423">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2424">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2427">
+            <IconStyle id="2428">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2429">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2432">
+            <LineStyle id="2433">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2436">
+            <IconStyle id="2437">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2438">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2441">
+            <IconStyle id="2442">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2443">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2446">
+            <LineStyle id="2447">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2450">
+            <IconStyle id="2451">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2452">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2455">
+            <IconStyle id="2456">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2457">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2460">
+            <LineStyle id="2461">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2464">
+            <IconStyle id="2465">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2466">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2469">
+            <IconStyle id="2470">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2471">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2474">
+            <LineStyle id="2475">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2478">
+            <IconStyle id="2479">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2480">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2483">
+            <IconStyle id="2484">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2485">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2488">
+            <LineStyle id="2489">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2492">
+            <IconStyle id="2493">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2494">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2497">
+            <IconStyle id="2498">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2499">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2502">
+            <LineStyle id="2503">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2506">
+            <IconStyle id="2507">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2508">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2511">
+            <IconStyle id="2512">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2513">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2516">
+            <LineStyle id="2517">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2520">
+            <IconStyle id="2521">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2522">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2525">
+            <IconStyle id="2526">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2527">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2530">
+            <LineStyle id="2531">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2534">
+            <IconStyle id="2535">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2536">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2539">
+            <IconStyle id="2540">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2541">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2544">
+            <LineStyle id="2545">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2548">
+            <IconStyle id="2549">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2550">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2553">
+            <IconStyle id="2554">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2555">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2558">
+            <LineStyle id="2559">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2562">
+            <IconStyle id="2563">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2564">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2567">
+            <IconStyle id="2568">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2569">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2572">
+            <LineStyle id="2573">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2576">
+            <IconStyle id="2577">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2578">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2581">
+            <IconStyle id="2582">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2583">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2586">
+            <LineStyle id="2587">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2590">
+            <IconStyle id="2591">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2592">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2595">
+            <IconStyle id="2596">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2597">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2600">
+            <LineStyle id="2601">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2604">
+            <IconStyle id="2605">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2606">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2609">
+            <IconStyle id="2610">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2611">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2614">
+            <LineStyle id="2615">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2618">
+            <IconStyle id="2619">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2620">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2623">
+            <IconStyle id="2624">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2625">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2628">
+            <LineStyle id="2629">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2632">
+            <IconStyle id="2633">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2634">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2637">
+            <IconStyle id="2638">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2639">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2642">
+            <LineStyle id="2643">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2646">
+            <IconStyle id="2647">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2648">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2651">
+            <IconStyle id="2652">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2653">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2656">
+            <LineStyle id="2657">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2660">
+            <IconStyle id="2661">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2662">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2665">
+            <IconStyle id="2666">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2667">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2670">
+            <LineStyle id="2671">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2674">
+            <IconStyle id="2675">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2676">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2679">
+            <IconStyle id="2680">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2681">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2684">
+            <LineStyle id="2685">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2688">
+            <IconStyle id="2689">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2690">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2693">
+            <IconStyle id="2694">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2695">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2698">
+            <LineStyle id="2699">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2702">
+            <IconStyle id="2703">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2704">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2707">
+            <IconStyle id="2708">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2709">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2712">
+            <LineStyle id="2713">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2716">
+            <IconStyle id="2717">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2718">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2721">
+            <IconStyle id="2722">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2723">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2726">
+            <LineStyle id="2727">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2730">
+            <IconStyle id="2731">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2732">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2735">
+            <IconStyle id="2736">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2737">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2740">
+            <LineStyle id="2741">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2744">
+            <IconStyle id="2745">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2746">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2749">
+            <IconStyle id="2750">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2751">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2754">
+            <LineStyle id="2755">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2758">
+            <IconStyle id="2759">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2760">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2763">
+            <IconStyle id="2764">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2765">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2768">
+            <LineStyle id="2769">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2772">
+            <IconStyle id="2773">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2774">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2777">
+            <IconStyle id="2778">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2779">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2782">
+            <LineStyle id="2783">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2786">
+            <IconStyle id="2787">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2788">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2791">
+            <IconStyle id="2792">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2793">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2796">
+            <LineStyle id="2797">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2800">
+            <IconStyle id="2801">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2802">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2805">
+            <IconStyle id="2806">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2807">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2810">
+            <LineStyle id="2811">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2814">
+            <IconStyle id="2815">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2816">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2819">
+            <IconStyle id="2820">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2821">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2824">
+            <LineStyle id="2825">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2828">
+            <IconStyle id="2829">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2830">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2833">
+            <IconStyle id="2834">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2835">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2838">
+            <LineStyle id="2839">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2842">
+            <IconStyle id="2843">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2844">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2847">
+            <IconStyle id="2848">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2849">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2852">
+            <LineStyle id="2853">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2856">
+            <IconStyle id="2857">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2858">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2861">
+            <IconStyle id="2862">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2863">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2866">
+            <LineStyle id="2867">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2870">
+            <IconStyle id="2871">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2872">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2875">
+            <IconStyle id="2876">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2877">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2880">
+            <LineStyle id="2881">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2884">
+            <IconStyle id="2885">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2886">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2889">
+            <IconStyle id="2890">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2891">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2894">
+            <LineStyle id="2895">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2898">
+            <IconStyle id="2899">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2900">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2903">
+            <IconStyle id="2904">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2905">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2908">
+            <LineStyle id="2909">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2912">
+            <IconStyle id="2913">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2914">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2917">
+            <IconStyle id="2918">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2919">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2922">
+            <LineStyle id="2923">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="2926">
+            <IconStyle id="2927">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2928">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="2931">
+            <IconStyle id="2932">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>0.7</scale>
+                <heading>0</heading>
+                <Icon id="2933">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="2109">
+            <name>Trajet 0 | 19.6 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 19.6 km/h
+Vitesse Max : 53.0 km/h
+Charge : VIDE</description>
+            <styleUrl>#2110</styleUrl>
+            <LineString id="2108">
+                <coordinates>-68.70917,-20.96073,0.0 -68.700641667,-20.964511667,0.0 -68.694905,-20.973633333,0.0 -68.700626667,-20.979031667,0.0 -68.707148333,-20.978086667,0.0 -68.70069,-20.977123333,0.0 -68.699951667,-20.971761667,0.0 -68.703386667,-20.968998333,0.0 -68.702685,-20.96999,0.0 -68.704308333,-20.969548333,0.0 -68.704386667,-20.96933,0.0 -68.704386667,-20.96933,0.0 -68.704635,-20.969355,0.0 -68.704635,-20.969355,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2113">
+            <name>Départ T0</name>
+            <styleUrl>#2114</styleUrl>
+            <Point id="2112">
+                <coordinates>-68.70917,-20.96073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2118">
+            <name>Arrivée T0</name>
+            <styleUrl>#2119</styleUrl>
+            <Point id="2117">
+                <coordinates>-68.704635,-20.969355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2123">
+            <name>Trajet 8 | 27.4 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 27.4 km/h
+Vitesse Max : 47.4 km/h
+Charge : VIDE</description>
+            <styleUrl>#2124</styleUrl>
+            <LineString id="2122">
+                <coordinates>-68.708383333,-20.95992,0.0 -68.703198333,-20.963396667,0.0 -68.695446667,-20.970411667,0.0 -68.698258333,-20.978315,0.0 -68.706628333,-20.978433333,0.0 -68.703508333,-20.977923333,0.0 -68.698846667,-20.973341667,0.0 -68.704196667,-20.9686,0.0 -68.701638333,-20.972218333,0.0 -68.701468333,-20.97228,0.0 -68.701468333,-20.97228,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2127">
+            <name>Départ T8</name>
+            <styleUrl>#2128</styleUrl>
+            <Point id="2126">
+                <coordinates>-68.708383333,-20.95992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2132">
+            <name>Arrivée T8</name>
+            <styleUrl>#2133</styleUrl>
+            <Point id="2131">
+                <coordinates>-68.701468333,-20.97228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2137">
+            <name>Trajet 17 | 14.9 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 14.9 km/h
+Vitesse Max : 37.8 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2138</styleUrl>
+            <LineString id="2136">
+                <coordinates>-68.701618333,-20.97214,0.0 -68.703245,-20.969805,0.0 -68.70382,-20.968478333,0.0 -68.700591667,-20.971021667,0.0 -68.698355,-20.974325,0.0 -68.697888333,-20.974375,0.0 -68.698211667,-20.972098333,0.0 -68.699668333,-20.970301667,0.0 -68.70131,-20.968533333,0.0 -68.701055,-20.967896667,0.0 -68.697153333,-20.97063,0.0 -68.69602,-20.972718333,0.0 -68.695221667,-20.974896667,0.0 -68.695205,-20.973433333,0.0 -68.695588333,-20.971101667,0.0 -68.696626667,-20.969011667,0.0 -68.699516667,-20.965973333,0.0 -68.701123333,-20.964366667,0.0 -68.70352,-20.963571667,0.0 -68.706891667,-20.96277,0.0 -68.710481667,-20.961553333,0.0 -68.708396667,-20.96009,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2141">
+            <name>Départ T17</name>
+            <styleUrl>#2142</styleUrl>
+            <Point id="2140">
+                <coordinates>-68.701618333,-20.97214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2146">
+            <name>Arrivée T17</name>
+            <styleUrl>#2147</styleUrl>
+            <Point id="2145">
+                <coordinates>-68.708396667,-20.96009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2151">
+            <name>Trajet 26 | 15.8 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 15.8 km/h
+Vitesse Max : 46.9 km/h
+Charge : VIDE</description>
+            <styleUrl>#2152</styleUrl>
+            <LineString id="2150">
+                <coordinates>-68.735275,-20.977613333,0.0 -68.735675,-20.978721667,0.0 -68.735675,-20.978721667,0.0 -68.731686667,-20.981253333,0.0 -68.72055,-20.978643333,0.0 -68.712071667,-20.982583333,0.0 -68.705425,-20.985115,0.0 -68.699675,-20.984001667,0.0 -68.698978333,-20.98303,0.0 -68.700255,-20.983493333,0.0 -68.70284,-20.9843,0.0 -68.703003333,-20.984141667,0.0 -68.703103333,-20.984055,0.0 -68.703103333,-20.984055,0.0 -68.703103333,-20.984055,0.0 -68.703046667,-20.984046667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2155">
+            <name>Départ T26</name>
+            <styleUrl>#2156</styleUrl>
+            <Point id="2154">
+                <coordinates>-68.735275,-20.977613333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2160">
+            <name>Arrivée T26</name>
+            <styleUrl>#2161</styleUrl>
+            <Point id="2159">
+                <coordinates>-68.703046667,-20.984046667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2165">
+            <name>Trajet 35 | 26.6 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 26.6 km/h
+Vitesse Max : 55.7 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2166</styleUrl>
+            <LineString id="2164">
+                <coordinates>-68.696443333,-20.982095,0.0 -68.698708333,-20.983593333,0.0 -68.704035,-20.985668333,0.0 -68.711806667,-20.983056667,0.0 -68.719303333,-20.979416667,0.0 -68.730783333,-20.981445,0.0 -68.733396667,-20.98224,0.0 -68.730593333,-20.982588333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2169">
+            <name>Départ T35</name>
+            <styleUrl>#2170</styleUrl>
+            <Point id="2168">
+                <coordinates>-68.696443333,-20.982095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2174">
+            <name>Arrivée T35</name>
+            <styleUrl>#2175</styleUrl>
+            <Point id="2173">
+                <coordinates>-68.730593333,-20.982588333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2179">
+            <name>Trajet 44 | 14.6 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 14.6 km/h
+Vitesse Max : 36.5 km/h
+Charge : VIDE</description>
+            <styleUrl>#2180</styleUrl>
+            <LineString id="2178">
+                <coordinates>-68.735858333,-20.97552,0.0 -68.735685,-20.979701667,0.0 -68.729796667,-20.980501667,0.0 -68.720531667,-20.978685,0.0 -68.714658333,-20.980905,0.0 -68.708195,-20.984111667,0.0 -68.696826667,-20.982281667,0.0 -68.696826667,-20.982281667,0.0 -68.6968,-20.981991667,0.0 -68.696778333,-20.981965,0.0 -68.696778333,-20.981965,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2183">
+            <name>Départ T44</name>
+            <styleUrl>#2184</styleUrl>
+            <Point id="2182">
+                <coordinates>-68.735858333,-20.97552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2188">
+            <name>Arrivée T44</name>
+            <styleUrl>#2189</styleUrl>
+            <Point id="2187">
+                <coordinates>-68.696778333,-20.981965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2193">
+            <name>Trajet 53 | 22.2 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 22.2 km/h
+Vitesse Max : 56.9 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2194</styleUrl>
+            <LineString id="2192">
+                <coordinates>-68.698503333,-20.9875,0.0 -68.695546667,-20.986875,0.0 -68.690355,-20.983193333,0.0 -68.687946667,-20.979091667,0.0 -68.683286667,-20.977735,0.0 -68.6816,-20.975718333,0.0 -68.685481667,-20.973108333,0.0 -68.689626667,-20.969488333,0.0 -68.691513333,-20.963941667,0.0 -68.695608333,-20.960511667,0.0 -68.701076667,-20.960076667,0.0 -68.701113333,-20.955321667,0.0 -68.704868333,-20.951968333,0.0 -68.707728333,-20.949628333,0.0 -68.709961667,-20.946971667,0.0 -68.710668333,-20.946933333,0.0 -68.710705,-20.949475,0.0 -68.710951667,-20.949166667,0.0 -68.7112,-20.948605,0.0 -68.711403333,-20.947526667,0.0 -68.709971667,-20.94643,0.0 -68.70597,-20.950113333,0.0 -68.70191,-20.95467,0.0 -68.701036667,-20.95983,0.0 -68.69488,-20.960718333,0.0 -68.689933333,-20.968551667,0.0 -68.683605,-20.97441,0.0 -68.683086667,-20.978005,0.0 -68.688711667,-20.980261667,0.0 -68.69185,-20.985123333,0.0 -68.697511667,-20.987618333,0.0 -68.698573333,-20.98747,0.0 -68.698743333,-20.987591667,0.0 -68.697246667,-20.98744,0.0 -68.691333333,-20.984293333,0.0 -68.687928333,-20.979055,0.0 -68.68264,-20.977698333,0.0 -68.682103333,-20.975543333,0.0 -68.686196667,-20.972655,0.0 -68.690141667,-20.968741667,0.0 -68.692848333,-20.962113333,0.0 -68.69775,-20.959951667,0.0 -68.701571667,-20.958513333,0.0 -68.702346667,-20.954648333,0.0 -68.706278333,-20.950186667,0.0 -68.709178333,-20.948155,0.0 -68.711165,-20.945983333,0.0 -68.710371667,-20.949245,0.0 -68.710421667,-20.94907,0.0 -68.710948333,-20.945475,0.0 -68.706506667,-20.949751667,0.0 -68.701131667,-20.955023333,0.0 -68.699608333,-20.95964,0.0 -68.692865,-20.961885,0.0 -68.68406,-20.97408,0.0 -68.680583333,-20.976685,0.0 -68.686428333,-20.978585,0.0 -68.689685,-20.98225,0.0 -68.695648333,-20.987028333,0.0 -68.697303333,-20.987581667,0.0 -68.697463333,-20.987591667,0.0 -68.697636667,-20.987645,0.0 -68.697636667,-20.987645,0.0 -68.697636667,-20.987645,0.0 -68.697636667,-20.987645,0.0 -68.698181667,-20.98772,0.0 -68.698181667,-20.98772,0.0 -68.698706667,-20.987461667,0.0 -68.698706667,-20.987461667,0.0 -68.696483333,-20.987246667,0.0 -68.691683333,-20.984573333,0.0 -68.689246667,-20.982328333,0.0 -68.687566667,-20.983711667,0.0 -68.688498333,-20.986308333,0.0 -68.690303333,-20.990038333,0.0 -68.693066667,-21.000311667,0.0 -68.697053333,-21.003536667,0.0 -68.700391667,-21.00696,0.0 -68.701615,-21.008326667,0.0 -68.701615,-21.008326667,0.0 -68.70205,-21.008623333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2197">
+            <name>Départ T53</name>
+            <styleUrl>#2198</styleUrl>
+            <Point id="2196">
+                <coordinates>-68.698503333,-20.9875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2202">
+            <name>Arrivée T53</name>
+            <styleUrl>#2203</styleUrl>
+            <Point id="2201">
+                <coordinates>-68.70205,-21.008623333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2207">
+            <name>Trajet 62 | 14.9 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 14.9 km/h
+Vitesse Max : 47.0 km/h
+Charge : VIDE</description>
+            <styleUrl>#2208</styleUrl>
+            <LineString id="2206">
+                <coordinates>-68.709858333,-20.949161667,0.0 -68.710588333,-20.945701667,0.0 -68.705638333,-20.950456667,0.0 -68.700688333,-20.955273333,0.0 -68.70186,-20.96136,0.0 -68.70878,-20.96183,0.0 -68.710056667,-20.958265,0.0 -68.707993333,-20.95784,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707105,-20.958706667,0.0 -68.707856667,-20.958175,0.0 -68.70995,-20.96178,0.0 -68.702471667,-20.963643333,0.0 -68.695998333,-20.96925,0.0 -68.694925,-20.97587,0.0 -68.703096667,-20.979116667,0.0 -68.704561667,-20.97822,0.0 -68.700963333,-20.976628333,0.0 -68.706898333,-20.97449,0.0 -68.702148333,-20.97341,0.0 -68.702326667,-20.973145,0.0 -68.70227,-20.973033333,0.0 -68.70227,-20.973033333,0.0 -68.70227,-20.973033333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2211">
+            <name>Départ T62</name>
+            <styleUrl>#2212</styleUrl>
+            <Point id="2210">
+                <coordinates>-68.709858333,-20.949161667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2216">
+            <name>Arrivée T62</name>
+            <styleUrl>#2217</styleUrl>
+            <Point id="2215">
+                <coordinates>-68.70227,-20.973033333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2221">
+            <name>Trajet 71 | 12.7 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 12.7 km/h
+Vitesse Max : 19.8 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2222</styleUrl>
+            <LineString id="2220">
+                <coordinates>-68.703405,-20.968636667,0.0 -68.701028333,-20.964426667,0.0 -68.704575,-20.963255,0.0 -68.709691667,-20.96283,0.0 -68.70972,-20.960821667,0.0 -68.708376667,-20.959793333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2225">
+            <name>Départ T71</name>
+            <styleUrl>#2226</styleUrl>
+            <Point id="2224">
+                <coordinates>-68.703405,-20.968636667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2230">
+            <name>Arrivée T71</name>
+            <styleUrl>#2231</styleUrl>
+            <Point id="2229">
+                <coordinates>-68.708376667,-20.959793333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2235">
+            <name>Trajet 80 | 9.5 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 9.5 km/h
+Vitesse Max : 43.0 km/h
+Charge : VIDE</description>
+            <styleUrl>#2236</styleUrl>
+            <LineString id="2234">
+                <coordinates>-68.716016667,-20.952916667,0.0 -68.714811667,-20.95331,0.0 -68.717636667,-20.954911667,0.0 -68.712988333,-20.95605,0.0 -68.716161667,-20.957538333,0.0 -68.718186667,-20.958878333,0.0 -68.723443333,-20.956663333,0.0 -68.72682,-20.955813333,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727698333,-20.95439,0.0 -68.722311667,-20.956711667,0.0 -68.716123333,-20.960155,0.0 -68.711078333,-20.961946667,0.0 -68.714246667,-20.964866667,0.0 -68.713555,-20.965591667,0.0 -68.709543333,-20.965268333,0.0 -68.713256667,-20.970035,0.0 -68.71324,-20.970323333,0.0 -68.71324,-20.970323333,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.7128,-20.972703333,0.0 -68.711985,-20.975196667,0.0 -68.710698333,-20.975428333,0.0 -68.71083,-20.969535,0.0 -68.710666667,-20.969456667,0.0 -68.710576667,-20.969303333,0.0 -68.710955,-20.970395,0.0 -68.710928333,-20.975046667,0.0 -68.711883333,-20.975511667,0.0 -68.711895,-20.975508333,0.0 -68.71277,-20.973885,0.0 -68.713185,-20.971371667,0.0 -68.713643333,-20.972308333,0.0 -68.7139,-20.974603333,0.0 -68.713536667,-20.97696,0.0 -68.714978333,-20.974575,0.0 -68.71527,-20.972226667,0.0 -68.716188333,-20.969985,0.0 -68.715486667,-20.967465,0.0 -68.714611667,-20.965158333,0.0 -68.712958333,-20.963066667,0.0 -68.71209,-20.961911667,0.0 -68.715385,-20.961983333,0.0 -68.716821667,-20.957443333,0.0 -68.714105,-20.95724,0.0 -68.712878333,-20.956411667,0.0 -68.716413333,-20.955883333,0.0 -68.71691,-20.954618333,0.0 -68.715936667,-20.95394,0.0 -68.715941667,-20.953906667,0.0 -68.716235,-20.954913333,0.0 -68.713935,-20.9561,0.0 -68.715346667,-20.957528333,0.0 -68.715493333,-20.960808333,0.0 -68.710255,-20.962355,0.0 -68.702976667,-20.963506667,0.0 -68.697545,-20.96791,0.0 -68.694993333,-20.973346667,0.0 -68.69768,-20.977983333,0.0 -68.704408333,-20.979173333,0.0 -68.704981667,-20.978273333,0.0 -68.699948333,-20.975775,0.0 -68.701518333,-20.976765,0.0 -68.701518333,-20.976765,0.0 -68.707126667,-20.97438,0.0 -68.704178333,-20.975476667,0.0 -68.702396667,-20.972798333,0.0 -68.702626667,-20.972603333,0.0 -68.702653333,-20.972681667,0.0 -68.70266,-20.972545,0.0 -68.702721667,-20.972388333,0.0 -68.702721667,-20.972388333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2239">
+            <name>Départ T80</name>
+            <styleUrl>#2240</styleUrl>
+            <Point id="2238">
+                <coordinates>-68.716016667,-20.952916667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2244">
+            <name>Arrivée T80</name>
+            <styleUrl>#2245</styleUrl>
+            <Point id="2243">
+                <coordinates>-68.702721667,-20.972388333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2249">
+            <name>Trajet 88 | 18.8 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 18.8 km/h
+Vitesse Max : 38.7 km/h
+Charge : VIDE</description>
+            <styleUrl>#2250</styleUrl>
+            <LineString id="2248">
+                <coordinates>-68.70137,-21.006713333,0.0 -68.701763333,-21.007963333,0.0 -68.6972,-21.003361667,0.0 -68.691386667,-20.99673,0.0 -68.690548333,-20.990591667,0.0 -68.688073333,-20.98526,0.0 -68.689455,-20.981855,0.0 -68.69463,-20.986626667,0.0 -68.697448333,-20.98703,0.0 -68.695903333,-20.985963333,0.0 -68.696401667,-20.985976667,0.0 -68.697136667,-20.986213333,0.0 -68.697136667,-20.986213333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2253">
+            <name>Départ T88</name>
+            <styleUrl>#2254</styleUrl>
+            <Point id="2252">
+                <coordinates>-68.70137,-21.006713333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2258">
+            <name>Arrivée T88</name>
+            <styleUrl>#2259</styleUrl>
+            <Point id="2257">
+                <coordinates>-68.697136667,-20.986213333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2263">
+            <name>Trajet 97 | 22.5 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 22.5 km/h
+Vitesse Max : 47.6 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2264</styleUrl>
+            <LineString id="2262">
+                <coordinates>-68.703565,-20.983916667,0.0 -68.70067,-20.983466667,0.0 -68.69853,-20.983416667,0.0 -68.702313333,-20.98532,0.0 -68.708911667,-20.984205,0.0 -68.71571,-20.98081,0.0 -68.724435,-20.97961,0.0 -68.730161667,-20.981128333,0.0 -68.733843333,-20.98162,0.0 -68.733581667,-20.984011667,0.0 -68.733805,-20.984083333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2267">
+            <name>Départ T97</name>
+            <styleUrl>#2268</styleUrl>
+            <Point id="2266">
+                <coordinates>-68.703565,-20.983916667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2272">
+            <name>Arrivée T97</name>
+            <styleUrl>#2273</styleUrl>
+            <Point id="2271">
+                <coordinates>-68.733805,-20.984083333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2277">
+            <name>Trajet 106 | 26.9 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 26.9 km/h
+Vitesse Max : 40.9 km/h
+Charge : VIDE</description>
+            <styleUrl>#2278</styleUrl>
+            <LineString id="2276">
+                <coordinates>-68.708535,-20.959365,0.0 -68.710013333,-20.962535,0.0 -68.701311667,-20.96405,0.0 -68.695583333,-20.969845,0.0 -68.69626,-20.97697,0.0 -68.703075,-20.979131667,0.0 -68.705713333,-20.978233333,0.0 -68.69993,-20.975798333,0.0 -68.701263333,-20.970613333,0.0 -68.703378333,-20.969398333,0.0 -68.700488333,-20.973535,0.0 -68.700176667,-20.973238333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2281">
+            <name>Départ T106</name>
+            <styleUrl>#2282</styleUrl>
+            <Point id="2280">
+                <coordinates>-68.708535,-20.959365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2286">
+            <name>Arrivée T106</name>
+            <styleUrl>#2287</styleUrl>
+            <Point id="2285">
+                <coordinates>-68.700176667,-20.973238333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2291">
+            <name>Trajet 115 | 17.3 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 17.3 km/h
+Vitesse Max : 41.7 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2292</styleUrl>
+            <LineString id="2290">
+                <coordinates>-68.69794,-20.970255,0.0 -68.69596,-20.972841667,0.0 -68.69521,-20.97335,0.0 -68.696438333,-20.969188333,0.0 -68.699461667,-20.966025,0.0 -68.701266667,-20.964323333,0.0 -68.703735,-20.963478333,0.0 -68.707685,-20.962773333,0.0 -68.709975,-20.961075,0.0 -68.708376667,-20.959868333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2295">
+            <name>Départ T115</name>
+            <styleUrl>#2296</styleUrl>
+            <Point id="2294">
+                <coordinates>-68.69794,-20.970255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2300">
+            <name>Arrivée T115</name>
+            <styleUrl>#2301</styleUrl>
+            <Point id="2299">
+                <coordinates>-68.708376667,-20.959868333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2305">
+            <name>Trajet 124 | 31.0 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 31.0 km/h
+Vitesse Max : 41.3 km/h
+Charge : VIDE</description>
+            <styleUrl>#2306</styleUrl>
+            <LineString id="2304">
+                <coordinates>-68.716061667,-20.953656667,0.0 -68.71605,-20.955721667,0.0 -68.716195,-20.957631667,0.0 -68.71396,-20.96136,0.0 -68.70908,-20.962608333,0.0 -68.701368333,-20.964046667,0.0 -68.696835,-20.96853,0.0 -68.704628333,-20.97922,0.0 -68.70337,-20.977913333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2309">
+            <name>Départ T124</name>
+            <styleUrl>#2310</styleUrl>
+            <Point id="2308">
+                <coordinates>-68.716061667,-20.953656667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2314">
+            <name>Arrivée T124</name>
+            <styleUrl>#2315</styleUrl>
+            <Point id="2313">
+                <coordinates>-68.70337,-20.977913333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2319">
+            <name>Trajet 133 | 7.6 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 7.6 km/h
+Vitesse Max : 42.4 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2320</styleUrl>
+            <LineString id="2318">
+                <coordinates>-68.7077,-20.962788333,0.0 -68.709438333,-20.960423333,0.0 -68.708881667,-20.959168333,0.0 -68.708881667,-20.959168333,0.0 -68.708881667,-20.959168333,0.0 -68.708468333,-20.959455,0.0 -68.708468333,-20.959455,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2323">
+            <name>Départ T133</name>
+            <styleUrl>#2324</styleUrl>
+            <Point id="2322">
+                <coordinates>-68.7077,-20.962788333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2328">
+            <name>Arrivée T133</name>
+            <styleUrl>#2329</styleUrl>
+            <Point id="2327">
+                <coordinates>-68.708468333,-20.959455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2333">
+            <name>Trajet 142 | 20.3 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 20.3 km/h
+Vitesse Max : 41.7 km/h
+Charge : VIDE</description>
+            <styleUrl>#2334</styleUrl>
+            <LineString id="2332">
+                <coordinates>-68.713965,-20.954578333,0.0 -68.716705,-20.955593333,0.0 -68.71402,-20.957451667,0.0 -68.715583333,-20.96073,0.0 -68.710956667,-20.961951667,0.0 -68.705025,-20.96147,0.0 -68.699701667,-20.959626667,0.0 -68.693376667,-20.961541667,0.0 -68.690676667,-20.96711,0.0 -68.687503333,-20.971421667,0.0 -68.684166667,-20.974045,0.0 -68.680578333,-20.977773333,0.0 -68.687191667,-20.978971667,0.0 -68.690248333,-20.983553333,0.0 -68.692675,-20.985671667,0.0 -68.69566,-20.987166667,0.0 -68.697803333,-20.987291667,0.0 -68.69555,-20.98592,0.0 -68.696896667,-20.985926667,0.0 -68.697196667,-20.985813333,0.0 -68.697191667,-20.985865,0.0 -68.697191667,-20.985865,0.0 -68.697343333,-20.986023333,0.0 -68.697343333,-20.986023333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2337">
+            <name>Départ T142</name>
+            <styleUrl>#2338</styleUrl>
+            <Point id="2336">
+                <coordinates>-68.713965,-20.954578333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2342">
+            <name>Arrivée T142</name>
+            <styleUrl>#2343</styleUrl>
+            <Point id="2341">
+                <coordinates>-68.697343333,-20.986023333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2347">
+            <name>Trajet 151 | 12.9 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 12.9 km/h
+Vitesse Max : 26.1 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2348</styleUrl>
+            <LineString id="2346">
+                <coordinates>-68.732655,-20.954636667,0.0 -68.729306667,-20.9557,0.0 -68.717336667,-20.958733333,0.0 -68.710985,-20.961931667,0.0 -68.70883,-20.959151667,0.0 -68.70844,-20.959468333,0.0 -68.70844,-20.959468333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2351">
+            <name>Départ T151</name>
+            <styleUrl>#2352</styleUrl>
+            <Point id="2350">
+                <coordinates>-68.732655,-20.954636667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2356">
+            <name>Arrivée T151</name>
+            <styleUrl>#2357</styleUrl>
+            <Point id="2355">
+                <coordinates>-68.70844,-20.959468333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2361">
+            <name>Trajet 160 | 19.3 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 19.3 km/h
+Vitesse Max : 35.2 km/h
+Charge : VIDE</description>
+            <styleUrl>#2362</styleUrl>
+            <LineString id="2360">
+                <coordinates>-68.708408333,-20.959946667,0.0 -68.709923333,-20.962505,0.0 -68.702618333,-20.963575,0.0 -68.697636667,-20.967848333,0.0 -68.69502,-20.972775,0.0 -68.697458333,-20.97773,0.0 -68.703303333,-20.97913,0.0 -68.70607,-20.978098333,0.0 -68.700283333,-20.976561667,0.0 -68.699448333,-20.972165,0.0 -68.704315,-20.96851,0.0 -68.701413333,-20.972001667,0.0 -68.700285,-20.973321667,0.0 -68.699871667,-20.972981667,0.0 -68.699793333,-20.973026667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2365">
+            <name>Départ T160</name>
+            <styleUrl>#2366</styleUrl>
+            <Point id="2364">
+                <coordinates>-68.708408333,-20.959946667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2370">
+            <name>Arrivée T160</name>
+            <styleUrl>#2371</styleUrl>
+            <Point id="2369">
+                <coordinates>-68.699793333,-20.973026667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2375">
+            <name>Trajet 169 | 15.2 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 15.2 km/h
+Vitesse Max : 35.2 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2376</styleUrl>
+            <LineString id="2374">
+                <coordinates>-68.710996667,-20.973266667,0.0 -68.71056,-20.975315,0.0 -68.712925,-20.97328,0.0 -68.713591667,-20.971195,0.0 -68.713845,-20.973913333,0.0 -68.713745,-20.976306667,0.0 -68.715255,-20.972465,0.0 -68.716208333,-20.969973333,0.0 -68.71524,-20.966718333,0.0 -68.7141,-20.964155,0.0 -68.71192,-20.962705,0.0 -68.71339,-20.961375,0.0 -68.717218333,-20.959733333,0.0 -68.715456667,-20.957251667,0.0 -68.712865,-20.95705,0.0 -68.71509,-20.956163333,0.0 -68.718135,-20.955101667,0.0 -68.715086667,-20.95457,0.0 -68.713905,-20.954746667,0.0 -68.713818333,-20.95463,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2379">
+            <name>Départ T169</name>
+            <styleUrl>#2380</styleUrl>
+            <Point id="2378">
+                <coordinates>-68.710996667,-20.973266667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2384">
+            <name>Arrivée T169</name>
+            <styleUrl>#2385</styleUrl>
+            <Point id="2383">
+                <coordinates>-68.713818333,-20.95463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2389">
+            <name>Trajet 177 | 14.7 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 14.7 km/h
+Vitesse Max : 31.9 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2390</styleUrl>
+            <LineString id="2388">
+                <coordinates>-68.699275,-20.987785,0.0 -68.696631667,-20.987371667,0.0 -68.69206,-20.984866667,0.0 -68.69093,-20.98394,0.0 -68.689028333,-20.982011667,0.0 -68.687996667,-20.983361667,0.0 -68.687693333,-20.985335,0.0 -68.689135,-20.987545,0.0 -68.69029,-20.990226667,0.0 -68.69068,-20.994263333,0.0 -68.691973333,-20.999325,0.0 -68.696293333,-21.002746667,0.0 -68.698128333,-21.004838333,0.0 -68.700795,-21.007341667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2393">
+            <name>Départ T177</name>
+            <styleUrl>#2394</styleUrl>
+            <Point id="2392">
+                <coordinates>-68.699275,-20.987785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2398">
+            <name>Arrivée T177</name>
+            <styleUrl>#2399</styleUrl>
+            <Point id="2397">
+                <coordinates>-68.700795,-21.007341667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2403">
+            <name>Trajet 186 | 14.0 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 14.0 km/h
+Vitesse Max : 31.5 km/h
+Charge : VIDE</description>
+            <styleUrl>#2404</styleUrl>
+            <LineString id="2402">
+                <coordinates>-68.734491667,-20.976441667,0.0 -68.735736667,-20.976295,0.0 -68.738596667,-20.973331667,0.0 -68.732451667,-20.972376667,0.0 -68.72602,-20.971105,0.0 -68.723473333,-20.970323333,0.0 -68.719313333,-20.97217,0.0 -68.719313333,-20.97217,0.0 -68.718661667,-20.972788333,0.0 -68.718746667,-20.973116667,0.0 -68.718746667,-20.973116667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2407">
+            <name>Départ T186</name>
+            <styleUrl>#2408</styleUrl>
+            <Point id="2406">
+                <coordinates>-68.734491667,-20.976441667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2412">
+            <name>Arrivée T186</name>
+            <styleUrl>#2413</styleUrl>
+            <Point id="2411">
+                <coordinates>-68.718746667,-20.973116667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2417">
+            <name>Trajet 195 | 13.6 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 13.6 km/h
+Vitesse Max : 46.9 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2418</styleUrl>
+            <LineString id="2416">
+                <coordinates>-68.732675,-20.954008333,0.0 -68.732686667,-20.953993333,0.0 -68.732686667,-20.953993333,0.0 -68.732686667,-20.953993333,0.0 -68.732645,-20.954011667,0.0 -68.72933,-20.954858333,0.0 -68.723785,-20.95606,0.0 -68.717145,-20.959055,0.0 -68.712538333,-20.960991667,0.0 -68.7095,-20.960466667,0.0 -68.708363333,-20.959858333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2421">
+            <name>Départ T195</name>
+            <styleUrl>#2422</styleUrl>
+            <Point id="2420">
+                <coordinates>-68.732675,-20.954008333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2426">
+            <name>Arrivée T195</name>
+            <styleUrl>#2427</styleUrl>
+            <Point id="2425">
+                <coordinates>-68.708363333,-20.959858333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2431">
+            <name>Trajet 204 | 22.7 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 22.7 km/h
+Vitesse Max : 34.3 km/h
+Charge : VIDE</description>
+            <styleUrl>#2432</styleUrl>
+            <LineString id="2430">
+                <coordinates>-68.716585,-20.953161667,0.0 -68.716585,-20.953161667,0.0 -68.715041667,-20.954781667,0.0 -68.715245,-20.955858333,0.0 -68.713898333,-20.957361667,0.0 -68.716603333,-20.959733333,0.0 -68.711336667,-20.961813333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2435">
+            <name>Départ T204</name>
+            <styleUrl>#2436</styleUrl>
+            <Point id="2434">
+                <coordinates>-68.716585,-20.953161667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2440">
+            <name>Arrivée T204</name>
+            <styleUrl>#2441</styleUrl>
+            <Point id="2439">
+                <coordinates>-68.711336667,-20.961813333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2445">
+            <name>Trajet 213 | 13.7 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 13.7 km/h
+Vitesse Max : 32.6 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2446</styleUrl>
+            <LineString id="2444">
+                <coordinates>-68.703971667,-20.970341667,0.0 -68.698286667,-20.972243333,0.0 -68.700468333,-20.96939,0.0 -68.695331667,-20.974553333,0.0 -68.695463333,-20.971721667,0.0 -68.6976,-20.96809,0.0 -68.700028333,-20.965421667,0.0 -68.702288333,-20.963986667,0.0 -68.704966667,-20.96316,0.0 -68.710835,-20.962493333,0.0 -68.709255,-20.959643333,0.0 -68.708526667,-20.959171667,0.0 -68.708458333,-20.959451667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2449">
+            <name>Départ T213</name>
+            <styleUrl>#2450</styleUrl>
+            <Point id="2448">
+                <coordinates>-68.703971667,-20.970341667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2454">
+            <name>Arrivée T213</name>
+            <styleUrl>#2455</styleUrl>
+            <Point id="2453">
+                <coordinates>-68.708458333,-20.959451667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2459">
+            <name>Trajet 222 | 5.3 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 5.3 km/h
+Vitesse Max : 34.3 km/h
+Charge : VIDE</description>
+            <styleUrl>#2460</styleUrl>
+            <LineString id="2458">
+                <coordinates>-68.708415,-20.959971667,0.0 -68.71059,-20.962528333,0.0 -68.713185,-20.961366667,0.0 -68.716355,-20.963796667,0.0 -68.72147,-20.966543333,0.0 -68.725861667,-20.967633333,0.0 -68.723193333,-20.970493333,0.0 -68.719465,-20.97355,0.0 -68.718148333,-20.978595,0.0 -68.716395,-20.98086,0.0 -68.721148333,-20.978643333,0.0 -68.723688333,-20.976978333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723753333,-20.977105,0.0 -68.72319,-20.976263333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721403333,-20.977285,0.0 -68.717646667,-20.980031667,0.0 -68.716213333,-20.980323333,0.0 -68.719483333,-20.974666667,0.0 -68.719286667,-20.97243,0.0 -68.719103333,-20.973263333,0.0 -68.719088333,-20.973293333,0.0 -68.718836667,-20.973528333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2463">
+            <name>Départ T222</name>
+            <styleUrl>#2464</styleUrl>
+            <Point id="2462">
+                <coordinates>-68.708415,-20.959971667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2468">
+            <name>Arrivée T222</name>
+            <styleUrl>#2469</styleUrl>
+            <Point id="2467">
+                <coordinates>-68.718836667,-20.973528333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2473">
+            <name>Trajet 231 | 15.2 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 15.2 km/h
+Vitesse Max : 41.5 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2474</styleUrl>
+            <LineString id="2472">
+                <coordinates>-68.700206667,-20.969756667,0.0 -68.695515,-20.974325,0.0 -68.69529,-20.972368333,0.0 -68.698456667,-20.967186667,0.0 -68.700666667,-20.964698333,0.0 -68.703651667,-20.963536667,0.0 -68.707521667,-20.962791667,0.0 -68.71,-20.961121667,0.0 -68.708936667,-20.959141667,0.0 -68.708936667,-20.959141667,0.0 -68.708463333,-20.959316667,0.0 -68.708475,-20.959445,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2477">
+            <name>Départ T231</name>
+            <styleUrl>#2478</styleUrl>
+            <Point id="2476">
+                <coordinates>-68.700206667,-20.969756667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2482">
+            <name>Arrivée T231</name>
+            <styleUrl>#2483</styleUrl>
+            <Point id="2481">
+                <coordinates>-68.708475,-20.959445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2487">
+            <name>Trajet 240 | 19.5 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 19.5 km/h
+Vitesse Max : 38.0 km/h
+Charge : VIDE</description>
+            <styleUrl>#2488</styleUrl>
+            <LineString id="2486">
+                <coordinates>-68.708601667,-20.959365,0.0 -68.709681667,-20.961326667,0.0 -68.706393333,-20.962575,0.0 -68.700606667,-20.964408333,0.0 -68.695493333,-20.970091667,0.0 -68.695665,-20.976601667,0.0 -68.701533333,-20.979156667,0.0 -68.707198333,-20.977808333,0.0 -68.700133333,-20.976116667,0.0 -68.702923333,-20.969341667,0.0 -68.703285,-20.969536667,0.0 -68.699896667,-20.973931667,0.0 -68.699721667,-20.973951667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2491">
+            <name>Départ T240</name>
+            <styleUrl>#2492</styleUrl>
+            <Point id="2490">
+                <coordinates>-68.708601667,-20.959365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2496">
+            <name>Arrivée T240</name>
+            <styleUrl>#2497</styleUrl>
+            <Point id="2495">
+                <coordinates>-68.699721667,-20.973951667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2501">
+            <name>Trajet 249 | 14.2 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 14.2 km/h
+Vitesse Max : 43.9 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2502</styleUrl>
+            <LineString id="2500">
+                <coordinates>-68.700413333,-20.971385,0.0 -68.697841667,-20.974185,0.0 -68.700573333,-20.969355,0.0 -68.701406667,-20.967521667,0.0 -68.696565,-20.971661667,0.0 -68.695003333,-20.975398333,0.0 -68.695298333,-20.972753333,0.0 -68.695841667,-20.969735,0.0 -68.699191667,-20.966285,0.0 -68.701751667,-20.964145,0.0 -68.704378333,-20.963296667,0.0 -68.709983333,-20.962746667,0.0 -68.709291667,-20.959966667,0.0 -68.708486667,-20.959408333,0.0 -68.708486667,-20.959408333,0.0 -68.708486667,-20.959408333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2505">
+            <name>Départ T249</name>
+            <styleUrl>#2506</styleUrl>
+            <Point id="2504">
+                <coordinates>-68.700413333,-20.971385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2510">
+            <name>Arrivée T249</name>
+            <styleUrl>#2511</styleUrl>
+            <Point id="2509">
+                <coordinates>-68.708486667,-20.959408333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2515">
+            <name>Trajet 258 | 3.8 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 3.8 km/h
+Vitesse Max : 36.9 km/h
+Charge : VIDE</description>
+            <styleUrl>#2516</styleUrl>
+            <LineString id="2514">
+                <coordinates>-68.727596667,-20.961276667,0.0 -68.727818333,-20.962725,0.0 -68.717013333,-20.979545,0.0 -68.717655,-20.980328333,0.0 -68.721488333,-20.977866667,0.0 -68.723776667,-20.976633333,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723033333,-20.976158333,0.0 -68.720873333,-20.978233333,0.0 -68.716011667,-20.98071,0.0 -68.718248333,-20.97883,0.0 -68.72022,-20.972416667,0.0 -68.718665,-20.973515,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2519">
+            <name>Départ T258</name>
+            <styleUrl>#2520</styleUrl>
+            <Point id="2518">
+                <coordinates>-68.727596667,-20.961276667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2524">
+            <name>Arrivée T258</name>
+            <styleUrl>#2525</styleUrl>
+            <Point id="2523">
+                <coordinates>-68.718665,-20.973515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2529">
+            <name>Trajet 266 | 14.4 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 14.4 km/h
+Vitesse Max : 43.9 km/h
+Charge : VIDE</description>
+            <styleUrl>#2530</styleUrl>
+            <LineString id="2528">
+                <coordinates>-68.708538333,-20.959411667,0.0 -68.709716667,-20.961425,0.0 -68.713526667,-20.961448333,0.0 -68.717943333,-20.959021667,0.0 -68.729515,-20.955965,0.0 -68.731316667,-20.953611667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2533">
+            <name>Départ T266</name>
+            <styleUrl>#2534</styleUrl>
+            <Point id="2532">
+                <coordinates>-68.708538333,-20.959411667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2538">
+            <name>Arrivée T266</name>
+            <styleUrl>#2539</styleUrl>
+            <Point id="2537">
+                <coordinates>-68.732938333,-20.954121667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2543">
+            <name>Trajet 275 | 31.3 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 31.3 km/h
+Vitesse Max : 50.7 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2544</styleUrl>
+            <LineString id="2542">
+                <coordinates>-68.687613333,-20.971546667,0.0 -68.692571667,-20.96236,0.0 -68.701048333,-20.957696667,0.0 -68.707375,-20.949815,0.0 -68.711948333,-20.94616,0.0 -68.712625,-20.94602,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2547">
+            <name>Départ T275</name>
+            <styleUrl>#2548</styleUrl>
+            <Point id="2546">
+                <coordinates>-68.687613333,-20.971546667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2552">
+            <name>Arrivée T275</name>
+            <styleUrl>#2553</styleUrl>
+            <Point id="2551">
+                <coordinates>-68.712625,-20.94602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2557">
+            <name>Trajet 284 | 20.6 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 20.6 km/h
+Vitesse Max : 45.6 km/h
+Charge : VIDE</description>
+            <styleUrl>#2558</styleUrl>
+            <LineString id="2556">
+                <coordinates>-68.708575,-20.959383333,0.0 -68.71029,-20.96215,0.0 -68.702918333,-20.963525,0.0 -68.696656667,-20.968733333,0.0 -68.694816667,-20.975708333,0.0 -68.70211,-20.979065,0.0 -68.70664,-20.977973333,0.0 -68.70091,-20.970913333,0.0 -68.702791667,-20.969883333,0.0 -68.700731667,-20.972093333,0.0 -68.700731667,-20.972093333,0.0 -68.701,-20.972318333,0.0 -68.700963333,-20.972346667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2561">
+            <name>Départ T284</name>
+            <styleUrl>#2562</styleUrl>
+            <Point id="2560">
+                <coordinates>-68.708575,-20.959383333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2566">
+            <name>Arrivée T284</name>
+            <styleUrl>#2567</styleUrl>
+            <Point id="2565">
+                <coordinates>-68.700963333,-20.972346667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2571">
+            <name>Trajet 293 | 15.2 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 15.2 km/h
+Vitesse Max : 37.8 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2572</styleUrl>
+            <LineString id="2570">
+                <coordinates>-68.710618333,-20.974395,0.0 -68.711175,-20.972393333,0.0 -68.710411667,-20.975781667,0.0 -68.71261,-20.974661667,0.0 -68.71304,-20.97223,0.0 -68.713563333,-20.97154,0.0 -68.713831667,-20.97405,0.0 -68.713466667,-20.976518333,0.0 -68.714808333,-20.975125,0.0 -68.715213333,-20.972435,0.0 -68.716063333,-20.970095,0.0 -68.715126667,-20.966586667,0.0 -68.71413,-20.964276667,0.0 -68.711983333,-20.9627,0.0 -68.713556667,-20.961456667,0.0 -68.717445,-20.959375,0.0 -68.715478333,-20.957283333,0.0 -68.712783333,-20.957056667,0.0 -68.714978333,-20.956168333,0.0 -68.717783333,-20.955486667,0.0 -68.71534,-20.954593333,0.0 -68.716523333,-20.95363,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2575">
+            <name>Départ T293</name>
+            <styleUrl>#2576</styleUrl>
+            <Point id="2574">
+                <coordinates>-68.710618333,-20.974395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2580">
+            <name>Arrivée T293</name>
+            <styleUrl>#2581</styleUrl>
+            <Point id="2579">
+                <coordinates>-68.716523333,-20.95363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2585">
+            <name>Trajet 302 | 8.2 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 8.2 km/h
+Vitesse Max : 50.0 km/h
+Charge : VIDE</description>
+            <styleUrl>#2586</styleUrl>
+            <LineString id="2584">
+                <coordinates>-68.734663333,-20.975585,0.0 -68.737811667,-20.974881667,0.0 -68.735325,-20.972528333,0.0 -68.72854,-20.971568333,0.0 -68.724391667,-20.969856667,0.0 -68.722683333,-20.967156667,0.0 -68.715426667,-20.963695,0.0 -68.718355,-20.958735,0.0 -68.727386667,-20.956326667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.731053333,-20.95299,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.732983333,-20.954801667,0.0 -68.732983333,-20.954801667,0.0 -68.732983333,-20.954801667,0.0 -68.732983333,-20.954801667,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2589">
+            <name>Départ T302</name>
+            <styleUrl>#2590</styleUrl>
+            <Point id="2588">
+                <coordinates>-68.734663333,-20.975585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2594">
+            <name>Arrivée T302</name>
+            <styleUrl>#2595</styleUrl>
+            <Point id="2593">
+                <coordinates>-68.732916667,-20.953996667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2599">
+            <name>Trajet 311 | 18.5 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 18.5 km/h
+Vitesse Max : 40.7 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2600</styleUrl>
+            <LineString id="2598">
+                <coordinates>-68.704155,-20.96984,0.0 -68.701926667,-20.971061667,0.0 -68.704433333,-20.968835,0.0 -68.702141667,-20.96975,0.0 -68.698411667,-20.973755,0.0 -68.69786,-20.974468333,0.0 -68.698295,-20.971966667,0.0 -68.699845,-20.970125,0.0 -68.701595,-20.968228333,0.0 -68.700811667,-20.968175,0.0 -68.696975,-20.970863333,0.0 -68.695911667,-20.973076667,0.0 -68.695035,-20.975388333,0.0 -68.695208333,-20.973205,0.0 -68.695641667,-20.970713333,0.0 -68.697061667,-20.96867,0.0 -68.699626667,-20.965823333,0.0 -68.701616667,-20.96423,0.0 -68.70417,-20.963331667,0.0 -68.708955,-20.96284,0.0 -68.7098,-20.961261667,0.0 -68.706058333,-20.961483333,0.0 -68.702258333,-20.961586667,0.0 -68.699606667,-20.95965,0.0 -68.695963333,-20.960125,0.0 -68.69362,-20.961461667,0.0 -68.69089,-20.966073333,0.0 -68.688326667,-20.970843333,0.0 -68.685538333,-20.972965,0.0 -68.682201667,-20.975365,0.0 -68.680081667,-20.97781,0.0 -68.676898333,-20.97956,0.0 -68.67353,-20.981195,0.0 -68.670563333,-20.984301667,0.0 -68.667911667,-20.986761667,0.0 -68.663976667,-20.986463333,0.0 -68.659771667,-20.988308333,0.0 -68.659763333,-20.98648,0.0 -68.662141667,-20.983666667,0.0 -68.660098333,-20.981873333,0.0 -68.656468333,-20.983168333,0.0 -68.653361667,-20.987523333,0.0 -68.655136667,-20.993638333,0.0 -68.653201667,-20.994828333,0.0 -68.648956667,-20.99238,0.0 -68.646496667,-20.989143333,0.0 -68.64289,-20.986713333,0.0 -68.637893333,-20.98552,0.0 -68.633433333,-20.984765,0.0 -68.633268333,-20.984675,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2603">
+            <name>Départ T311</name>
+            <styleUrl>#2604</styleUrl>
+            <Point id="2602">
+                <coordinates>-68.704155,-20.96984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2608">
+            <name>Arrivée T311</name>
+            <styleUrl>#2609</styleUrl>
+            <Point id="2607">
+                <coordinates>-68.633268333,-20.984675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2613">
+            <name>Trajet 320 | 7.5 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 7.5 km/h
+Vitesse Max : 38.5 km/h
+Charge : VIDE</description>
+            <styleUrl>#2614</styleUrl>
+            <LineString id="2612">
+                <coordinates>-68.735851667,-20.97486,0.0 -68.734468333,-20.977473333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734533333,-20.977461667,0.0 -68.734391667,-20.98028,0.0 -68.728448333,-20.979995,0.0 -68.720723333,-20.978666667,0.0 -68.714828333,-20.980791667,0.0 -68.710573333,-20.983478333,0.0 -68.704118333,-20.985506667,0.0 -68.699078333,-20.983568333,0.0 -68.696571667,-20.982606667,0.0 -68.696571667,-20.982606667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2617">
+            <name>Départ T320</name>
+            <styleUrl>#2618</styleUrl>
+            <Point id="2616">
+                <coordinates>-68.735851667,-20.97486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2622">
+            <name>Arrivée T320</name>
+            <styleUrl>#2623</styleUrl>
+            <Point id="2621">
+                <coordinates>-68.696571667,-20.982606667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2627">
+            <name>Trajet 329 | 19.6 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 19.6 km/h
+Vitesse Max : 43.9 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2628</styleUrl>
+            <LineString id="2626">
+                <coordinates>-68.705561667,-20.984043333,0.0 -68.705561667,-20.984043333,0.0 -68.704571667,-20.983783333,0.0 -68.70037,-20.983351667,0.0 -68.698383333,-20.983436667,0.0 -68.702253333,-20.985351667,0.0 -68.708223333,-20.98433,0.0 -68.713021667,-20.982343333,0.0 -68.717665,-20.980348333,0.0 -68.72535,-20.97983,0.0 -68.730771667,-20.981441667,0.0 -68.734588333,-20.980418333,0.0 -68.736006667,-20.976478333,0.0 -68.735225,-20.974841667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2631">
+            <name>Départ T329</name>
+            <styleUrl>#2632</styleUrl>
+            <Point id="2630">
+                <coordinates>-68.705561667,-20.984043333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2636">
+            <name>Arrivée T329</name>
+            <styleUrl>#2637</styleUrl>
+            <Point id="2635">
+                <coordinates>-68.735225,-20.974841667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2641">
+            <name>Trajet 338 | 6.6 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 6.6 km/h
+Vitesse Max : 50.6 km/h
+Charge : VIDE</description>
+            <styleUrl>#2642</styleUrl>
+            <LineString id="2640">
+                <coordinates>-68.708431667,-20.960015,0.0 -68.7114,-20.962176667,0.0 -68.715755,-20.961575,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.72624,-20.955661667,0.0 -68.718053333,-20.95821,0.0 -68.712736667,-20.960996667,0.0 -68.70418,-20.963031667,0.0 -68.697596667,-20.967968333,0.0 -68.69469,-20.975201667,0.0 -68.701563333,-20.979093333,0.0 -68.708805,-20.97678,0.0 -68.7101,-20.974613333,0.0 -68.71016,-20.974301667,0.0 -68.71016,-20.974301667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2645">
+            <name>Départ T338</name>
+            <styleUrl>#2646</styleUrl>
+            <Point id="2644">
+                <coordinates>-68.708431667,-20.960015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2650">
+            <name>Arrivée T338</name>
+            <styleUrl>#2651</styleUrl>
+            <Point id="2649">
+                <coordinates>-68.71016,-20.974301667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2655">
+            <name>Trajet 347 | 13.1 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 13.1 km/h
+Vitesse Max : 25.2 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2656</styleUrl>
+            <LineString id="2654">
+                <coordinates>-68.710646667,-20.968335,0.0 -68.711436667,-20.971728333,0.0 -68.710618333,-20.974518333,0.0 -68.709548333,-20.97614,0.0 -68.712203333,-20.97531,0.0 -68.712978333,-20.97301,0.0 -68.713305,-20.970711667,0.0 -68.713713333,-20.972895,0.0 -68.713911667,-20.975015,0.0 -68.713486667,-20.97698,0.0 -68.714875,-20.974906667,0.0 -68.715216667,-20.972485,0.0 -68.716036667,-20.970365,0.0 -68.715446667,-20.967378333,0.0 -68.71457,-20.965271667,0.0 -68.713175,-20.963205,0.0 -68.711346667,-20.962171667,0.0 -68.714166667,-20.96261,0.0 -68.717728333,-20.958851667,0.0 -68.715531667,-20.957311667,0.0 -68.713158333,-20.957133333,0.0 -68.714038333,-20.95628,0.0 -68.716795,-20.955723333,0.0 -68.716775,-20.954648333,0.0 -68.714341667,-20.954583333,0.0 -68.713196667,-20.954328333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2659">
+            <name>Départ T347</name>
+            <styleUrl>#2660</styleUrl>
+            <Point id="2658">
+                <coordinates>-68.710646667,-20.968335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2664">
+            <name>Arrivée T347</name>
+            <styleUrl>#2665</styleUrl>
+            <Point id="2663">
+                <coordinates>-68.713196667,-20.954328333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2669">
+            <name>Trajet 364 | 12.2 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 12.2 km/h
+Vitesse Max : 37.2 km/h
+Charge : VIDE</description>
+            <styleUrl>#2670</styleUrl>
+            <LineString id="2668">
+                <coordinates>-68.708438333,-20.960038333,0.0 -68.709703333,-20.96134,0.0 -68.712083333,-20.961926667,0.0 -68.714451667,-20.963363333,0.0 -68.720816667,-20.965353333,0.0 -68.72572,-20.968223333,0.0 -68.724023333,-20.966786667,0.0 -68.719498333,-20.964255,0.0 -68.714555,-20.963151667,0.0 -68.715936667,-20.96141,0.0 -68.717455,-20.957601667,0.0 -68.714295,-20.957233333,0.0 -68.713446667,-20.95643,0.0 -68.716183333,-20.95594,0.0 -68.716733333,-20.95465,0.0 -68.714686667,-20.953183333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714456667,-20.953966667,0.0 -68.717748333,-20.95497,0.0 -68.712026667,-20.956505,0.0 -68.717645,-20.958406667,0.0 -68.71188,-20.961591667,0.0 -68.699865,-20.97886,0.0 -68.707066667,-20.978118333,0.0 -68.7008,-20.977251667,0.0 -68.699853333,-20.9719,0.0 -68.701721667,-20.971678333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2673">
+            <name>Départ T364</name>
+            <styleUrl>#2674</styleUrl>
+            <Point id="2672">
+                <coordinates>-68.708438333,-20.960038333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2678">
+            <name>Arrivée T364</name>
+            <styleUrl>#2679</styleUrl>
+            <Point id="2677">
+                <coordinates>-68.701721667,-20.971678333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2683">
+            <name>Trajet 373 | 9.3 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 9.3 km/h
+Vitesse Max : 30.4 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2684</styleUrl>
+            <LineString id="2682">
+                <coordinates>-68.710458333,-20.961536667,0.0 -68.708913333,-20.959793333,0.0 -68.708376667,-20.959798333,0.0 -68.708376667,-20.959798333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2687">
+            <name>Départ T373</name>
+            <styleUrl>#2688</styleUrl>
+            <Point id="2686">
+                <coordinates>-68.710458333,-20.961536667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2692">
+            <name>Arrivée T373</name>
+            <styleUrl>#2693</styleUrl>
+            <Point id="2691">
+                <coordinates>-68.708376667,-20.959798333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2697">
+            <name>Trajet 382 | 7.9 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 7.9 km/h
+Vitesse Max : 53.7 km/h
+Charge : VIDE</description>
+            <styleUrl>#2698</styleUrl>
+            <LineString id="2696">
+                <coordinates>-68.747586667,-20.96944,0.0 -68.741438333,-20.969163333,0.0 -68.733301667,-20.969418333,0.0 -68.726501667,-20.970355,0.0 -68.722618333,-20.970896667,0.0 -68.719076667,-20.975315,0.0 -68.721678333,-20.977563333,0.0 -68.723726667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.72195,-20.976056667,0.0 -68.718115,-20.979763333,0.0 -68.710488333,-20.983485,0.0 -68.704898333,-20.986183333,0.0 -68.699356667,-20.986163333,0.0 -68.69477,-20.985536667,0.0 -68.694433333,-20.985391667,0.0 -68.69439,-20.985361667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2701">
+            <name>Départ T382</name>
+            <styleUrl>#2702</styleUrl>
+            <Point id="2700">
+                <coordinates>-68.747586667,-20.96944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2706">
+            <name>Arrivée T382</name>
+            <styleUrl>#2707</styleUrl>
+            <Point id="2705">
+                <coordinates>-68.69439,-20.985361667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2711">
+            <name>Trajet 391 | 14.5 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 14.5 km/h
+Vitesse Max : 28.0 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2712</styleUrl>
+            <LineString id="2710">
+                <coordinates>-68.71161,-20.969273333,0.0 -68.711601667,-20.969361667,0.0 -68.710595,-20.97436,0.0 -68.710676667,-20.975841667,0.0 -68.71266,-20.974165,0.0 -68.713105,-20.971768333,0.0 -68.713588333,-20.971898333,0.0 -68.713855,-20.974411667,0.0 -68.71338,-20.976955,0.0 -68.714898333,-20.974556667,0.0 -68.715331667,-20.971981667,0.0 -68.71615,-20.969481667,0.0 -68.716786667,-20.96979,0.0 -68.718798333,-20.970998333,0.0 -68.722113333,-20.970655,0.0 -68.726818333,-20.971496667,0.0 -68.729663333,-20.972075,0.0 -68.73311,-20.972551667,0.0 -68.736186667,-20.97296,0.0 -68.738841667,-20.97392,0.0 -68.73568,-20.974025,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2715">
+            <name>Départ T391</name>
+            <styleUrl>#2716</styleUrl>
+            <Point id="2714">
+                <coordinates>-68.71161,-20.969273333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2720">
+            <name>Arrivée T391</name>
+            <styleUrl>#2721</styleUrl>
+            <Point id="2719">
+                <coordinates>-68.73568,-20.974025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2725">
+            <name>Trajet 400 | 23.5 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 23.5 km/h
+Vitesse Max : 46.7 km/h
+Charge : VIDE</description>
+            <styleUrl>#2726</styleUrl>
+            <LineString id="2724">
+                <coordinates>-68.734325,-20.974645,0.0 -68.735123333,-20.975765,0.0 -68.733786667,-20.98058,0.0 -68.725253333,-20.979396667,0.0 -68.71638,-20.980548333,0.0 -68.709458333,-20.983858333,0.0 -68.704525,-20.986398333,0.0 -68.70015,-20.986208333,0.0 -68.695703333,-20.98573,0.0 -68.694503333,-20.985758333,0.0 -68.694238333,-20.985678333,0.0 -68.694238333,-20.985678333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2729">
+            <name>Départ T400</name>
+            <styleUrl>#2730</styleUrl>
+            <Point id="2728">
+                <coordinates>-68.734325,-20.974645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2734">
+            <name>Arrivée T400</name>
+            <styleUrl>#2735</styleUrl>
+            <Point id="2733">
+                <coordinates>-68.694238333,-20.985678333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2739">
+            <name>Trajet 409 | 12.6 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 12.6 km/h
+Vitesse Max : 43.0 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2740</styleUrl>
+            <LineString id="2738">
+                <coordinates>-68.701891667,-20.967926667,0.0 -68.694825,-20.975285,0.0 -68.701473333,-20.964265,0.0 -68.70397,-20.963413333,0.0 -68.708345,-20.962808333,0.0 -68.709721667,-20.960786667,0.0 -68.708923333,-20.95977,0.0 -68.708381667,-20.960028333,0.0 -68.708351667,-20.95987,0.0 -68.708351667,-20.95987,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2743">
+            <name>Départ T409</name>
+            <styleUrl>#2744</styleUrl>
+            <Point id="2742">
+                <coordinates>-68.701891667,-20.967926667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2748">
+            <name>Arrivée T409</name>
+            <styleUrl>#2749</styleUrl>
+            <Point id="2747">
+                <coordinates>-68.708351667,-20.95987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2753">
+            <name>Trajet 418 | 20.5 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 20.5 km/h
+Vitesse Max : 47.0 km/h
+Charge : VIDE</description>
+            <styleUrl>#2754</styleUrl>
+            <LineString id="2752">
+                <coordinates>-68.708348333,-20.959858333,0.0 -68.708348333,-20.959858333,0.0 -68.709663333,-20.961345,0.0 -68.704441667,-20.96159,0.0 -68.701725,-20.960293333,0.0 -68.695651667,-20.960361667,0.0 -68.691071667,-20.965041667,0.0 -68.687471667,-20.971476667,0.0 -68.682036667,-20.975491667,0.0 -68.680921667,-20.977816667,0.0 -68.687271667,-20.979025,0.0 -68.690756667,-20.98018,0.0 -68.68922,-20.977316667,0.0 -68.689193333,-20.97717,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2757">
+            <name>Départ T418</name>
+            <styleUrl>#2758</styleUrl>
+            <Point id="2756">
+                <coordinates>-68.708348333,-20.959858333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2762">
+            <name>Arrivée T418</name>
+            <styleUrl>#2763</styleUrl>
+            <Point id="2761">
+                <coordinates>-68.689193333,-20.97717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2767">
+            <name>Trajet 427 | 12.2 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 12.2 km/h
+Vitesse Max : 37.8 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2768</styleUrl>
+            <LineString id="2766">
+                <coordinates>-68.706896667,-20.962731667,0.0 -68.709985,-20.961096667,0.0 -68.708923333,-20.959736667,0.0 -68.708923333,-20.959736667,0.0 -68.708368333,-20.959785,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2771">
+            <name>Départ T427</name>
+            <styleUrl>#2772</styleUrl>
+            <Point id="2770">
+                <coordinates>-68.706896667,-20.962731667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2776">
+            <name>Arrivée T427</name>
+            <styleUrl>#2777</styleUrl>
+            <Point id="2775">
+                <coordinates>-68.708368333,-20.959785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2781">
+            <name>Trajet 436 | 27.2 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 27.2 km/h
+Vitesse Max : 44.4 km/h
+Charge : VIDE</description>
+            <styleUrl>#2782</styleUrl>
+            <LineString id="2780">
+                <coordinates>-68.708506667,-20.959345,0.0 -68.705143333,-20.962805,0.0 -68.697746667,-20.967651667,0.0 -68.694818333,-20.974056667,0.0 -68.696383333,-20.976965,0.0 -68.703998333,-20.979153333,0.0 -68.704145,-20.9781,0.0 -68.69853,-20.97419,0.0 -68.702025,-20.969971667,0.0 -68.701751667,-20.971005,0.0 -68.700858333,-20.972928333,0.0 -68.700876667,-20.973333333,0.0 -68.7009,-20.973386667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2785">
+            <name>Départ T436</name>
+            <styleUrl>#2786</styleUrl>
+            <Point id="2784">
+                <coordinates>-68.708506667,-20.959345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2790">
+            <name>Arrivée T436</name>
+            <styleUrl>#2791</styleUrl>
+            <Point id="2789">
+                <coordinates>-68.7009,-20.973386667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2795">
+            <name>Trajet 444 | 7.3 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 7.3 km/h
+Vitesse Max : 30.6 km/h
+Charge : VIDE</description>
+            <styleUrl>#2796</styleUrl>
+            <LineString id="2794">
+                <coordinates>-68.724091667,-20.976613333,0.0 -68.724028333,-20.976648333,0.0 -68.724013333,-20.976658333,0.0 -68.723968333,-20.976666667,0.0 -68.72392,-20.976675,0.0 -68.723965,-20.976661667,0.0 -68.72396,-20.976678333,0.0 -68.723923333,-20.976703333,0.0 -68.723923333,-20.976703333,0.0 -68.723913333,-20.976766667,0.0 -68.723845,-20.976725,0.0 -68.723903333,-20.976765,0.0 -68.720853333,-20.97819,0.0 -68.71401,-20.981306667,0.0 -68.70757,-20.984858333,0.0 -68.702073333,-20.986418333,0.0 -68.696651667,-20.985733333,0.0 -68.694448333,-20.985031667,0.0 -68.694448333,-20.985031667,0.0 -68.694175,-20.985225,0.0 -68.694111667,-20.98548,0.0 -68.694113333,-20.98548,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2799">
+            <name>Départ T444</name>
+            <styleUrl>#2800</styleUrl>
+            <Point id="2798">
+                <coordinates>-68.724091667,-20.976613333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2804">
+            <name>Arrivée T444</name>
+            <styleUrl>#2805</styleUrl>
+            <Point id="2803">
+                <coordinates>-68.694113333,-20.98548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2809">
+            <name>Trajet 453 | 18.2 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 18.2 km/h
+Vitesse Max : 34.3 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2810</styleUrl>
+            <LineString id="2808">
+                <coordinates>-68.695576667,-20.981685,0.0 -68.695568333,-20.981683333,0.0 -68.695568333,-20.981683333,0.0 -68.69651,-20.98223,0.0 -68.698546667,-20.983478333,0.0 -68.701515,-20.985191667,0.0 -68.70688,-20.984806667,0.0 -68.711293333,-20.983326667,0.0 -68.715021667,-20.980863333,0.0 -68.720298333,-20.97911,0.0 -68.726463333,-20.980008333,0.0 -68.729865,-20.98104,0.0 -68.733663333,-20.980835,0.0 -68.736115,-20.97912,0.0 -68.734716667,-20.974311667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2813">
+            <name>Départ T453</name>
+            <styleUrl>#2814</styleUrl>
+            <Point id="2812">
+                <coordinates>-68.695576667,-20.981685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2818">
+            <name>Arrivée T453</name>
+            <styleUrl>#2819</styleUrl>
+            <Point id="2817">
+                <coordinates>-68.734716667,-20.974311667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2823">
+            <name>Trajet 462 | 24.1 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 24.1 km/h
+Vitesse Max : 45.2 km/h
+Charge : VIDE</description>
+            <styleUrl>#2824</styleUrl>
+            <LineString id="2822">
+                <coordinates>-68.708381667,-20.9599,0.0 -68.709058333,-20.962625,0.0 -68.6998,-20.965285,0.0 -68.695406667,-20.9711,0.0 -68.705565,-20.978853333,0.0 -68.69867,-20.973481667,0.0 -68.703536667,-20.970875,0.0 -68.704198333,-20.96983,0.0 -68.70397,-20.96976,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2827">
+            <name>Départ T462</name>
+            <styleUrl>#2828</styleUrl>
+            <Point id="2826">
+                <coordinates>-68.708381667,-20.9599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2832">
+            <name>Arrivée T462</name>
+            <styleUrl>#2833</styleUrl>
+            <Point id="2831">
+                <coordinates>-68.70397,-20.96976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2837">
+            <name>Trajet 471 | 21.9 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 21.9 km/h
+Vitesse Max : 50.6 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2838</styleUrl>
+            <LineString id="2836">
+                <coordinates>-68.694215,-20.985271667,0.0 -68.697355,-20.985975,0.0 -68.700941667,-20.986516667,0.0 -68.704338333,-20.986663333,0.0 -68.707335,-20.985133333,0.0 -68.712735,-20.982493333,0.0 -68.717523333,-20.980415,0.0 -68.726681667,-20.980066667,0.0 -68.73062,-20.981421667,0.0 -68.734351667,-20.980585,0.0 -68.736006667,-20.977763333,0.0 -68.734473333,-20.974265,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2841">
+            <name>Départ T471</name>
+            <styleUrl>#2842</styleUrl>
+            <Point id="2840">
+                <coordinates>-68.694215,-20.985271667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2846">
+            <name>Arrivée T471</name>
+            <styleUrl>#2847</styleUrl>
+            <Point id="2845">
+                <coordinates>-68.734473333,-20.974265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2851">
+            <name>Trajet 480 | 24.3 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 24.3 km/h
+Vitesse Max : 43.0 km/h
+Charge : VIDE</description>
+            <styleUrl>#2852</styleUrl>
+            <LineString id="2850">
+                <coordinates>-68.708331667,-20.959836667,0.0 -68.70972,-20.96145,0.0 -68.703738333,-20.963243333,0.0 -68.697243333,-20.968213333,0.0 -68.694856667,-20.974118333,0.0 -68.698746667,-20.978581667,0.0 -68.705658333,-20.97884,0.0 -68.702568333,-20.977751667,0.0 -68.698755,-20.97353,0.0 -68.70333,-20.969431667,0.0 -68.70069,-20.97263,0.0 -68.700736667,-20.973535,0.0 -68.700601667,-20.973675,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2855">
+            <name>Départ T480</name>
+            <styleUrl>#2856</styleUrl>
+            <Point id="2854">
+                <coordinates>-68.708331667,-20.959836667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2860">
+            <name>Arrivée T480</name>
+            <styleUrl>#2861</styleUrl>
+            <Point id="2859">
+                <coordinates>-68.700601667,-20.973675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2865">
+            <name>Trajet 489 | 9.6 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 9.6 km/h
+Vitesse Max : 43.5 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2866</styleUrl>
+            <LineString id="2864">
+                <coordinates>-68.703881667,-20.970075,0.0 -68.703165,-20.97089,0.0 -68.702808333,-20.970238333,0.0 -68.703518333,-20.96859,0.0 -68.698345,-20.974241667,0.0 -68.695326667,-20.974655,0.0 -68.69517,-20.973753333,0.0 -68.695536667,-20.971325,0.0 -68.69675,-20.968953333,0.0 -68.69959,-20.965876667,0.0 -68.701358333,-20.964288333,0.0 -68.703781667,-20.963455,0.0 -68.707841667,-20.962785,0.0 -68.709666667,-20.960698333,0.0 -68.70939,-20.96017,0.0 -68.70939,-20.96017,0.0 -68.708975,-20.959761667,0.0 -68.708975,-20.959761667,0.0 -68.708365,-20.959845,0.0 -68.708365,-20.959845,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2869">
+            <name>Départ T489</name>
+            <styleUrl>#2870</styleUrl>
+            <Point id="2868">
+                <coordinates>-68.703881667,-20.970075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2874">
+            <name>Arrivée T489</name>
+            <styleUrl>#2875</styleUrl>
+            <Point id="2873">
+                <coordinates>-68.708365,-20.959845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2879">
+            <name>Trajet 498 | 23.5 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 23.5 km/h
+Vitesse Max : 45.7 km/h
+Charge : VIDE</description>
+            <styleUrl>#2880</styleUrl>
+            <LineString id="2878">
+                <coordinates>-68.708355,-20.959933333,0.0 -68.707133333,-20.962605,0.0 -68.69989,-20.965121667,0.0 -68.69538,-20.971313333,0.0 -68.69737,-20.977626667,0.0 -68.703318333,-20.979181667,0.0 -68.706076667,-20.978675,0.0 -68.702725,-20.977755,0.0 -68.702698333,-20.969451667,0.0 -68.701736667,-20.97095,0.0 -68.700763333,-20.973615,0.0 -68.700716667,-20.973758333,0.0 -68.700716667,-20.973758333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2883">
+            <name>Départ T498</name>
+            <styleUrl>#2884</styleUrl>
+            <Point id="2882">
+                <coordinates>-68.708355,-20.959933333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2888">
+            <name>Arrivée T498</name>
+            <styleUrl>#2889</styleUrl>
+            <Point id="2887">
+                <coordinates>-68.700716667,-20.973758333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2893">
+            <name>Trajet 507 | 15.5 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 15.5 km/h
+Vitesse Max : 35.4 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2894</styleUrl>
+            <LineString id="2892">
+                <coordinates>-68.71157,-20.968765,0.0 -68.711493333,-20.971631667,0.0 -68.710006667,-20.975385,0.0 -68.711886667,-20.975481667,0.0 -68.712916667,-20.97314,0.0 -68.713255,-20.970693333,0.0 -68.713708333,-20.973118333,0.0 -68.713891667,-20.975433333,0.0 -68.714438333,-20.976376667,0.0 -68.71502,-20.974038333,0.0 -68.715466667,-20.971678333,0.0 -68.715985,-20.969063333,0.0 -68.714946667,-20.966041667,0.0 -68.713806667,-20.963705,0.0 -68.711423333,-20.962561667,0.0 -68.713873333,-20.96183,0.0 -68.717611667,-20.959061667,0.0 -68.71501,-20.957218333,0.0 -68.71238,-20.956785,0.0 -68.71554,-20.95606,0.0 -68.717961667,-20.954816667,0.0 -68.714936667,-20.954501667,0.0 -68.717626667,-20.953925,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2897">
+            <name>Départ T507</name>
+            <styleUrl>#2898</styleUrl>
+            <Point id="2896">
+                <coordinates>-68.71157,-20.968765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2902">
+            <name>Arrivée T507</name>
+            <styleUrl>#2903</styleUrl>
+            <Point id="2901">
+                <coordinates>-68.717626667,-20.953925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2907">
+            <name>Trajet 516 | 4.5 km/h (VIDE)</name>
+            <description>Vitesse Moyenne : 4.5 km/h
+Vitesse Max : 36.7 km/h
+Charge : VIDE</description>
+            <styleUrl>#2908</styleUrl>
+            <LineString id="2906">
+                <coordinates>-68.72432,-20.958321667,0.0 -68.723833333,-20.958228333,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723713333,-20.959266667,0.0 -68.726435,-20.956853333,0.0 -68.72265,-20.956581667,0.0 -68.718026667,-20.95821,0.0 -68.714051667,-20.961533333,0.0 -68.717648333,-20.963783333,0.0 -68.722838333,-20.967351667,0.0 -68.724016667,-20.969885,0.0 -68.719508333,-20.97324,0.0 -68.717806667,-20.979105,0.0 -68.71721,-20.980593333,0.0 -68.724008333,-20.978246667,0.0 -68.724433333,-20.978351667,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.725281667,-20.979133333,0.0 -68.725076667,-20.979378333,0.0 -68.720661667,-20.978686667,0.0 -68.715306667,-20.980676667,0.0 -68.709925,-20.983693333,0.0 -68.703461667,-20.985421667,0.0 -68.698456667,-20.983258333,0.0 -68.69617,-20.982141667,0.0 -68.69617,-20.982141667,0.0 -68.695488333,-20.98192,0.0 -68.695318333,-20.98181,0.0 -68.69532,-20.981768333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2911">
+            <name>Départ T516</name>
+            <styleUrl>#2912</styleUrl>
+            <Point id="2910">
+                <coordinates>-68.72432,-20.958321667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2916">
+            <name>Arrivée T516</name>
+            <styleUrl>#2917</styleUrl>
+            <Point id="2915">
+                <coordinates>-68.69532,-20.981768333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2921">
+            <name>Trajet 525 | 13.6 km/h (PLEIN)</name>
+            <description>Vitesse Moyenne : 13.6 km/h
+Vitesse Max : 24.8 km/h
+Charge : PLEIN</description>
+            <styleUrl>#2922</styleUrl>
+            <LineString id="2920">
+                <coordinates>-68.711343333,-20.968685,0.0 -68.710681667,-20.972876667,0.0 -68.709505,-20.97596,0.0 -68.712335,-20.975263333,0.0 -68.712951667,-20.973168333,0.0 -68.713201667,-20.971078333,0.0 -68.713685,-20.972671667,0.0 -68.713913333,-20.974865,0.0 -68.713625,-20.976916667,0.0 -68.714908333,-20.974778333,0.0 -68.715211667,-20.972475,0.0 -68.716028333,-20.970436667,0.0 -68.71544,-20.967336667,0.0 -68.7146,-20.965273333,0.0 -68.7133,-20.963336667,0.0 -68.711251667,-20.962198333,0.0 -68.714863333,-20.962518333,0.0 -68.716433333,-20.957376667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="2925">
+            <name>Départ T525</name>
+            <styleUrl>#2926</styleUrl>
+            <Point id="2924">
+                <coordinates>-68.711343333,-20.968685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2930">
+            <name>Arrivée T525</name>
+            <styleUrl>#2931</styleUrl>
+            <Point id="2929">
+                <coordinates>-68.716433333,-20.957376667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
