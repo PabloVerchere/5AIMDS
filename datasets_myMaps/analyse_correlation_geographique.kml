@@ -1,0 +1,3545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11172">
+        <Style id="11175">
+            <LineStyle id="11176">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11179">
+            <IconStyle id="11180">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11181">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11184">
+            <IconStyle id="11185">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11186">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11189">
+            <LineStyle id="11190">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11193">
+            <IconStyle id="11194">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11195">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11198">
+            <IconStyle id="11199">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11200">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11203">
+            <LineStyle id="11204">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11207">
+            <IconStyle id="11208">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11209">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11212">
+            <IconStyle id="11213">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11214">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11217">
+            <LineStyle id="11218">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11221">
+            <IconStyle id="11222">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11223">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11226">
+            <IconStyle id="11227">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11228">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11231">
+            <LineStyle id="11232">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11235">
+            <IconStyle id="11236">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11237">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11240">
+            <IconStyle id="11241">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11242">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11245">
+            <LineStyle id="11246">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11249">
+            <IconStyle id="11250">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11251">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11254">
+            <IconStyle id="11255">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11256">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11259">
+            <LineStyle id="11260">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11263">
+            <IconStyle id="11264">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11265">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11268">
+            <IconStyle id="11269">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11270">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11273">
+            <LineStyle id="11274">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11277">
+            <IconStyle id="11278">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11279">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11282">
+            <IconStyle id="11283">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11284">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11287">
+            <LineStyle id="11288">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11291">
+            <IconStyle id="11292">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11293">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11296">
+            <IconStyle id="11297">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11298">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11301">
+            <LineStyle id="11302">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11305">
+            <IconStyle id="11306">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11307">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11310">
+            <IconStyle id="11311">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11312">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11315">
+            <LineStyle id="11316">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11319">
+            <IconStyle id="11320">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11321">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11324">
+            <IconStyle id="11325">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11326">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11329">
+            <LineStyle id="11330">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11333">
+            <IconStyle id="11334">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11335">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11338">
+            <IconStyle id="11339">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11340">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11343">
+            <LineStyle id="11344">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11347">
+            <IconStyle id="11348">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11349">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11352">
+            <IconStyle id="11353">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11354">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11357">
+            <LineStyle id="11358">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11361">
+            <IconStyle id="11362">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11363">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11366">
+            <IconStyle id="11367">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11368">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11371">
+            <LineStyle id="11372">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11375">
+            <IconStyle id="11376">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11377">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11380">
+            <IconStyle id="11381">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11382">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11385">
+            <LineStyle id="11386">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11389">
+            <IconStyle id="11390">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11391">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11394">
+            <IconStyle id="11395">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11396">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11399">
+            <LineStyle id="11400">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11403">
+            <IconStyle id="11404">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11405">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11408">
+            <IconStyle id="11409">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11410">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11413">
+            <LineStyle id="11414">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11417">
+            <IconStyle id="11418">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11419">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11422">
+            <IconStyle id="11423">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11424">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11427">
+            <LineStyle id="11428">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11431">
+            <IconStyle id="11432">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11433">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11436">
+            <IconStyle id="11437">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11438">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11441">
+            <LineStyle id="11442">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11445">
+            <IconStyle id="11446">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11447">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11450">
+            <IconStyle id="11451">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11452">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11455">
+            <LineStyle id="11456">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11459">
+            <IconStyle id="11460">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11461">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11464">
+            <IconStyle id="11465">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11466">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11469">
+            <LineStyle id="11470">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11473">
+            <IconStyle id="11474">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11475">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11478">
+            <IconStyle id="11479">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11480">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11483">
+            <LineStyle id="11484">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11487">
+            <IconStyle id="11488">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11489">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11492">
+            <IconStyle id="11493">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11494">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11497">
+            <LineStyle id="11498">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11501">
+            <IconStyle id="11502">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11503">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11506">
+            <IconStyle id="11507">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11508">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11511">
+            <LineStyle id="11512">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11515">
+            <IconStyle id="11516">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11517">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11520">
+            <IconStyle id="11521">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11522">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11525">
+            <LineStyle id="11526">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11529">
+            <IconStyle id="11530">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11531">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11534">
+            <IconStyle id="11535">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11536">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11539">
+            <LineStyle id="11540">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11543">
+            <IconStyle id="11544">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11545">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11548">
+            <IconStyle id="11549">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11550">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11553">
+            <LineStyle id="11554">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11557">
+            <IconStyle id="11558">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11559">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11562">
+            <IconStyle id="11563">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11564">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11567">
+            <LineStyle id="11568">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11571">
+            <IconStyle id="11572">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11573">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11576">
+            <IconStyle id="11577">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11578">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11581">
+            <LineStyle id="11582">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11585">
+            <IconStyle id="11586">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11587">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11590">
+            <IconStyle id="11591">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11592">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11595">
+            <LineStyle id="11596">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11599">
+            <IconStyle id="11600">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11601">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11604">
+            <IconStyle id="11605">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11606">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11609">
+            <LineStyle id="11610">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11613">
+            <IconStyle id="11614">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11615">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11618">
+            <IconStyle id="11619">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11620">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11623">
+            <LineStyle id="11624">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11627">
+            <IconStyle id="11628">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11629">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11632">
+            <IconStyle id="11633">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11634">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11637">
+            <LineStyle id="11638">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11641">
+            <IconStyle id="11642">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11643">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11646">
+            <IconStyle id="11647">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11648">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11651">
+            <LineStyle id="11652">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11655">
+            <IconStyle id="11656">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11657">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11660">
+            <IconStyle id="11661">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11662">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11665">
+            <LineStyle id="11666">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11669">
+            <IconStyle id="11670">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11671">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11674">
+            <IconStyle id="11675">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11676">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11679">
+            <LineStyle id="11680">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11683">
+            <IconStyle id="11684">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11685">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11688">
+            <IconStyle id="11689">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11690">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11693">
+            <LineStyle id="11694">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11697">
+            <IconStyle id="11698">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11699">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11702">
+            <IconStyle id="11703">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11704">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11707">
+            <LineStyle id="11708">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11711">
+            <IconStyle id="11712">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11713">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11716">
+            <IconStyle id="11717">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11718">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11721">
+            <LineStyle id="11722">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11725">
+            <IconStyle id="11726">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11727">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11730">
+            <IconStyle id="11731">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11732">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11735">
+            <LineStyle id="11736">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11739">
+            <IconStyle id="11740">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11741">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11744">
+            <IconStyle id="11745">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11746">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11749">
+            <LineStyle id="11750">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11753">
+            <IconStyle id="11754">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11755">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11758">
+            <IconStyle id="11759">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11760">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11763">
+            <LineStyle id="11764">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11767">
+            <IconStyle id="11768">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11769">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11772">
+            <IconStyle id="11773">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11774">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11777">
+            <LineStyle id="11778">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11781">
+            <IconStyle id="11782">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11783">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11786">
+            <IconStyle id="11787">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11788">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11791">
+            <LineStyle id="11792">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11795">
+            <IconStyle id="11796">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11797">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11800">
+            <IconStyle id="11801">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11802">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11805">
+            <LineStyle id="11806">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11809">
+            <IconStyle id="11810">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11811">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11814">
+            <IconStyle id="11815">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11816">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11819">
+            <LineStyle id="11820">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11823">
+            <IconStyle id="11824">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11825">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11828">
+            <IconStyle id="11829">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11830">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11833">
+            <LineStyle id="11834">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11837">
+            <IconStyle id="11838">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11839">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11842">
+            <IconStyle id="11843">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11844">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11847">
+            <LineStyle id="11848">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11851">
+            <IconStyle id="11852">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11853">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11856">
+            <IconStyle id="11857">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11858">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11861">
+            <LineStyle id="11862">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11865">
+            <IconStyle id="11866">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11867">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11870">
+            <IconStyle id="11871">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11872">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11875">
+            <LineStyle id="11876">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11879">
+            <IconStyle id="11880">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11881">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11884">
+            <IconStyle id="11885">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11886">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11889">
+            <LineStyle id="11890">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11893">
+            <IconStyle id="11894">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11895">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11898">
+            <IconStyle id="11899">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11900">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11903">
+            <LineStyle id="11904">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11907">
+            <IconStyle id="11908">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11909">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11912">
+            <IconStyle id="11913">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11914">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11917">
+            <LineStyle id="11918">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11921">
+            <IconStyle id="11922">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11923">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11926">
+            <IconStyle id="11927">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11928">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11931">
+            <LineStyle id="11932">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11935">
+            <IconStyle id="11936">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11937">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11940">
+            <IconStyle id="11941">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11942">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11945">
+            <LineStyle id="11946">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11949">
+            <IconStyle id="11950">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11951">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11954">
+            <IconStyle id="11955">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11956">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11959">
+            <LineStyle id="11960">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11963">
+            <IconStyle id="11964">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11965">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11968">
+            <IconStyle id="11969">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11970">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11973">
+            <LineStyle id="11974">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11977">
+            <IconStyle id="11978">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11979">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11982">
+            <IconStyle id="11983">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11984">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11987">
+            <LineStyle id="11988">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="11991">
+            <IconStyle id="11992">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11993">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11996">
+            <IconStyle id="11997">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11998">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="11174">
+            <name>Trajet 0 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 0
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 19.6 km/h
+⚡ Vitesse max : 53.0 km/h
+🏔️ Altitude moyenne : 4235.4 m
+🔥 Indice de Stress : 0.46/1.0</description>
+            <styleUrl>#11175</styleUrl>
+            <LineString id="11173">
+                <coordinates>-68.70917,-20.96073,0.0 -68.700641667,-20.964511667,0.0 -68.694905,-20.973633333,0.0 -68.700626667,-20.979031667,0.0 -68.707148333,-20.978086667,0.0 -68.70069,-20.977123333,0.0 -68.699951667,-20.971761667,0.0 -68.703386667,-20.968998333,0.0 -68.702685,-20.96999,0.0 -68.704308333,-20.969548333,0.0 -68.704386667,-20.96933,0.0 -68.704386667,-20.96933,0.0 -68.704635,-20.969355,0.0 -68.704635,-20.969355,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11178">
+            <name>DÉPART T0</name>
+            <description>Début de la mission 0
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11179</styleUrl>
+            <Point id="11177">
+                <coordinates>-68.70917,-20.96073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11183">
+            <name>ARRIVÉE T0</name>
+            <description>Fin de la mission 0
+Destination atteinte.</description>
+            <styleUrl>#11184</styleUrl>
+            <Point id="11182">
+                <coordinates>-68.704635,-20.969355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11188">
+            <name>Trajet 8 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 8
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 27.4 km/h
+⚡ Vitesse max : 47.4 km/h
+🏔️ Altitude moyenne : 4285.0 m
+🔥 Indice de Stress : 0.53/1.0</description>
+            <styleUrl>#11189</styleUrl>
+            <LineString id="11187">
+                <coordinates>-68.708383333,-20.95992,0.0 -68.703198333,-20.963396667,0.0 -68.695446667,-20.970411667,0.0 -68.698258333,-20.978315,0.0 -68.706628333,-20.978433333,0.0 -68.703508333,-20.977923333,0.0 -68.698846667,-20.973341667,0.0 -68.704196667,-20.9686,0.0 -68.701638333,-20.972218333,0.0 -68.701468333,-20.97228,0.0 -68.701468333,-20.97228,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11192">
+            <name>DÉPART T8</name>
+            <description>Début de la mission 8
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11193</styleUrl>
+            <Point id="11191">
+                <coordinates>-68.708383333,-20.95992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11197">
+            <name>ARRIVÉE T8</name>
+            <description>Fin de la mission 8
+Destination atteinte.</description>
+            <styleUrl>#11198</styleUrl>
+            <Point id="11196">
+                <coordinates>-68.701468333,-20.97228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11202">
+            <name>Trajet 17 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 17
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 14.9 km/h
+⚡ Vitesse max : 37.8 km/h
+🏔️ Altitude moyenne : 4331.9 m
+🔥 Indice de Stress : 0.44/1.0</description>
+            <styleUrl>#11203</styleUrl>
+            <LineString id="11201">
+                <coordinates>-68.701618333,-20.97214,0.0 -68.703245,-20.969805,0.0 -68.70382,-20.968478333,0.0 -68.700591667,-20.971021667,0.0 -68.698355,-20.974325,0.0 -68.697888333,-20.974375,0.0 -68.698211667,-20.972098333,0.0 -68.699668333,-20.970301667,0.0 -68.70131,-20.968533333,0.0 -68.701055,-20.967896667,0.0 -68.697153333,-20.97063,0.0 -68.69602,-20.972718333,0.0 -68.695221667,-20.974896667,0.0 -68.695205,-20.973433333,0.0 -68.695588333,-20.971101667,0.0 -68.696626667,-20.969011667,0.0 -68.699516667,-20.965973333,0.0 -68.701123333,-20.964366667,0.0 -68.70352,-20.963571667,0.0 -68.706891667,-20.96277,0.0 -68.710481667,-20.961553333,0.0 -68.708396667,-20.96009,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11206">
+            <name>DÉPART T17</name>
+            <description>Début de la mission 17
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11207</styleUrl>
+            <Point id="11205">
+                <coordinates>-68.701618333,-20.97214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11211">
+            <name>ARRIVÉE T17</name>
+            <description>Fin de la mission 17
+Destination atteinte.</description>
+            <styleUrl>#11212</styleUrl>
+            <Point id="11210">
+                <coordinates>-68.708396667,-20.96009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11216">
+            <name>Trajet 26 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 26
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 15.8 km/h
+⚡ Vitesse max : 46.9 km/h
+🏔️ Altitude moyenne : 4631.2 m
+🔥 Indice de Stress : 0.43/1.0</description>
+            <styleUrl>#11217</styleUrl>
+            <LineString id="11215">
+                <coordinates>-68.735275,-20.977613333,0.0 -68.735675,-20.978721667,0.0 -68.735675,-20.978721667,0.0 -68.731686667,-20.981253333,0.0 -68.72055,-20.978643333,0.0 -68.712071667,-20.982583333,0.0 -68.705425,-20.985115,0.0 -68.699675,-20.984001667,0.0 -68.698978333,-20.98303,0.0 -68.700255,-20.983493333,0.0 -68.70284,-20.9843,0.0 -68.703003333,-20.984141667,0.0 -68.703103333,-20.984055,0.0 -68.703103333,-20.984055,0.0 -68.703103333,-20.984055,0.0 -68.703046667,-20.984046667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11220">
+            <name>DÉPART T26</name>
+            <description>Début de la mission 26
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11221</styleUrl>
+            <Point id="11219">
+                <coordinates>-68.735275,-20.977613333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11225">
+            <name>ARRIVÉE T26</name>
+            <description>Fin de la mission 26
+Destination atteinte.</description>
+            <styleUrl>#11226</styleUrl>
+            <Point id="11224">
+                <coordinates>-68.703046667,-20.984046667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11230">
+            <name>Trajet 35 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 35
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 26.6 km/h
+⚡ Vitesse max : 55.7 km/h
+🏔️ Altitude moyenne : 4639.3 m
+🔥 Indice de Stress : 0.53/1.0</description>
+            <styleUrl>#11231</styleUrl>
+            <LineString id="11229">
+                <coordinates>-68.696443333,-20.982095,0.0 -68.698708333,-20.983593333,0.0 -68.704035,-20.985668333,0.0 -68.711806667,-20.983056667,0.0 -68.719303333,-20.979416667,0.0 -68.730783333,-20.981445,0.0 -68.733396667,-20.98224,0.0 -68.730593333,-20.982588333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11234">
+            <name>DÉPART T35</name>
+            <description>Début de la mission 35
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11235</styleUrl>
+            <Point id="11233">
+                <coordinates>-68.696443333,-20.982095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11239">
+            <name>ARRIVÉE T35</name>
+            <description>Fin de la mission 35
+Destination atteinte.</description>
+            <styleUrl>#11240</styleUrl>
+            <Point id="11238">
+                <coordinates>-68.730593333,-20.982588333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11244">
+            <name>Trajet 44 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 44
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 14.6 km/h
+⚡ Vitesse max : 36.5 km/h
+🏔️ Altitude moyenne : 4635.0 m
+🔥 Indice de Stress : 0.42/1.0</description>
+            <styleUrl>#11245</styleUrl>
+            <LineString id="11243">
+                <coordinates>-68.735858333,-20.97552,0.0 -68.735685,-20.979701667,0.0 -68.729796667,-20.980501667,0.0 -68.720531667,-20.978685,0.0 -68.714658333,-20.980905,0.0 -68.708195,-20.984111667,0.0 -68.696826667,-20.982281667,0.0 -68.696826667,-20.982281667,0.0 -68.6968,-20.981991667,0.0 -68.696778333,-20.981965,0.0 -68.696778333,-20.981965,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11248">
+            <name>DÉPART T44</name>
+            <description>Début de la mission 44
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11249</styleUrl>
+            <Point id="11247">
+                <coordinates>-68.735858333,-20.97552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11253">
+            <name>ARRIVÉE T44</name>
+            <description>Fin de la mission 44
+Destination atteinte.</description>
+            <styleUrl>#11254</styleUrl>
+            <Point id="11252">
+                <coordinates>-68.696778333,-20.981965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11258">
+            <name>Trajet 53 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 53
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 22.2 km/h
+⚡ Vitesse max : 56.9 km/h
+🏔️ Altitude moyenne : 4744.4 m
+🔥 Indice de Stress : 0.49/1.0</description>
+            <styleUrl>#11259</styleUrl>
+            <LineString id="11257">
+                <coordinates>-68.698503333,-20.9875,0.0 -68.695546667,-20.986875,0.0 -68.690355,-20.983193333,0.0 -68.687946667,-20.979091667,0.0 -68.683286667,-20.977735,0.0 -68.6816,-20.975718333,0.0 -68.685481667,-20.973108333,0.0 -68.689626667,-20.969488333,0.0 -68.691513333,-20.963941667,0.0 -68.695608333,-20.960511667,0.0 -68.701076667,-20.960076667,0.0 -68.701113333,-20.955321667,0.0 -68.704868333,-20.951968333,0.0 -68.707728333,-20.949628333,0.0 -68.709961667,-20.946971667,0.0 -68.710668333,-20.946933333,0.0 -68.710705,-20.949475,0.0 -68.710951667,-20.949166667,0.0 -68.7112,-20.948605,0.0 -68.711403333,-20.947526667,0.0 -68.709971667,-20.94643,0.0 -68.70597,-20.950113333,0.0 -68.70191,-20.95467,0.0 -68.701036667,-20.95983,0.0 -68.69488,-20.960718333,0.0 -68.689933333,-20.968551667,0.0 -68.683605,-20.97441,0.0 -68.683086667,-20.978005,0.0 -68.688711667,-20.980261667,0.0 -68.69185,-20.985123333,0.0 -68.697511667,-20.987618333,0.0 -68.698573333,-20.98747,0.0 -68.698743333,-20.987591667,0.0 -68.697246667,-20.98744,0.0 -68.691333333,-20.984293333,0.0 -68.687928333,-20.979055,0.0 -68.68264,-20.977698333,0.0 -68.682103333,-20.975543333,0.0 -68.686196667,-20.972655,0.0 -68.690141667,-20.968741667,0.0 -68.692848333,-20.962113333,0.0 -68.69775,-20.959951667,0.0 -68.701571667,-20.958513333,0.0 -68.702346667,-20.954648333,0.0 -68.706278333,-20.950186667,0.0 -68.709178333,-20.948155,0.0 -68.711165,-20.945983333,0.0 -68.710371667,-20.949245,0.0 -68.710421667,-20.94907,0.0 -68.710948333,-20.945475,0.0 -68.706506667,-20.949751667,0.0 -68.701131667,-20.955023333,0.0 -68.699608333,-20.95964,0.0 -68.692865,-20.961885,0.0 -68.68406,-20.97408,0.0 -68.680583333,-20.976685,0.0 -68.686428333,-20.978585,0.0 -68.689685,-20.98225,0.0 -68.695648333,-20.987028333,0.0 -68.697303333,-20.987581667,0.0 -68.697463333,-20.987591667,0.0 -68.697636667,-20.987645,0.0 -68.697636667,-20.987645,0.0 -68.697636667,-20.987645,0.0 -68.697636667,-20.987645,0.0 -68.698181667,-20.98772,0.0 -68.698181667,-20.98772,0.0 -68.698706667,-20.987461667,0.0 -68.698706667,-20.987461667,0.0 -68.696483333,-20.987246667,0.0 -68.691683333,-20.984573333,0.0 -68.689246667,-20.982328333,0.0 -68.687566667,-20.983711667,0.0 -68.688498333,-20.986308333,0.0 -68.690303333,-20.990038333,0.0 -68.693066667,-21.000311667,0.0 -68.697053333,-21.003536667,0.0 -68.700391667,-21.00696,0.0 -68.701615,-21.008326667,0.0 -68.701615,-21.008326667,0.0 -68.70205,-21.008623333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11262">
+            <name>DÉPART T53</name>
+            <description>Début de la mission 53
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11263</styleUrl>
+            <Point id="11261">
+                <coordinates>-68.698503333,-20.9875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11267">
+            <name>ARRIVÉE T53</name>
+            <description>Fin de la mission 53
+Destination atteinte.</description>
+            <styleUrl>#11268</styleUrl>
+            <Point id="11266">
+                <coordinates>-68.70205,-21.008623333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11272">
+            <name>Trajet 62 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 62
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 14.9 km/h
+⚡ Vitesse max : 47.0 km/h
+🏔️ Altitude moyenne : 4467.9 m
+🔥 Indice de Stress : 0.40/1.0</description>
+            <styleUrl>#11273</styleUrl>
+            <LineString id="11271">
+                <coordinates>-68.709858333,-20.949161667,0.0 -68.710588333,-20.945701667,0.0 -68.705638333,-20.950456667,0.0 -68.700688333,-20.955273333,0.0 -68.70186,-20.96136,0.0 -68.70878,-20.96183,0.0 -68.710056667,-20.958265,0.0 -68.707993333,-20.95784,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707151667,-20.95854,0.0 -68.707105,-20.958706667,0.0 -68.707856667,-20.958175,0.0 -68.70995,-20.96178,0.0 -68.702471667,-20.963643333,0.0 -68.695998333,-20.96925,0.0 -68.694925,-20.97587,0.0 -68.703096667,-20.979116667,0.0 -68.704561667,-20.97822,0.0 -68.700963333,-20.976628333,0.0 -68.706898333,-20.97449,0.0 -68.702148333,-20.97341,0.0 -68.702326667,-20.973145,0.0 -68.70227,-20.973033333,0.0 -68.70227,-20.973033333,0.0 -68.70227,-20.973033333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11276">
+            <name>DÉPART T62</name>
+            <description>Début de la mission 62
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11277</styleUrl>
+            <Point id="11275">
+                <coordinates>-68.709858333,-20.949161667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11281">
+            <name>ARRIVÉE T62</name>
+            <description>Fin de la mission 62
+Destination atteinte.</description>
+            <styleUrl>#11282</styleUrl>
+            <Point id="11280">
+                <coordinates>-68.70227,-20.973033333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11286">
+            <name>Trajet 71 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 71
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 12.7 km/h
+⚡ Vitesse max : 19.8 km/h
+🏔️ Altitude moyenne : 4477.0 m
+🔥 Indice de Stress : 0.41/1.0</description>
+            <styleUrl>#11287</styleUrl>
+            <LineString id="11285">
+                <coordinates>-68.703405,-20.968636667,0.0 -68.701028333,-20.964426667,0.0 -68.704575,-20.963255,0.0 -68.709691667,-20.96283,0.0 -68.70972,-20.960821667,0.0 -68.708376667,-20.959793333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11290">
+            <name>DÉPART T71</name>
+            <description>Début de la mission 71
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11291</styleUrl>
+            <Point id="11289">
+                <coordinates>-68.703405,-20.968636667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11295">
+            <name>ARRIVÉE T71</name>
+            <description>Fin de la mission 71
+Destination atteinte.</description>
+            <styleUrl>#11296</styleUrl>
+            <Point id="11294">
+                <coordinates>-68.708376667,-20.959793333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11300">
+            <name>Trajet 80 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 80
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 9.5 km/h
+⚡ Vitesse max : 43.0 km/h
+🏔️ Altitude moyenne : 4482.5 m
+🔥 Indice de Stress : 0.36/1.0</description>
+            <styleUrl>#11301</styleUrl>
+            <LineString id="11299">
+                <coordinates>-68.716016667,-20.952916667,0.0 -68.714811667,-20.95331,0.0 -68.717636667,-20.954911667,0.0 -68.712988333,-20.95605,0.0 -68.716161667,-20.957538333,0.0 -68.718186667,-20.958878333,0.0 -68.723443333,-20.956663333,0.0 -68.72682,-20.955813333,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727505,-20.955225,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727466667,-20.955216667,0.0 -68.727698333,-20.95439,0.0 -68.722311667,-20.956711667,0.0 -68.716123333,-20.960155,0.0 -68.711078333,-20.961946667,0.0 -68.714246667,-20.964866667,0.0 -68.713555,-20.965591667,0.0 -68.709543333,-20.965268333,0.0 -68.713256667,-20.970035,0.0 -68.71324,-20.970323333,0.0 -68.71324,-20.970323333,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.712991667,-20.971171667,0.0 -68.7128,-20.972703333,0.0 -68.711985,-20.975196667,0.0 -68.710698333,-20.975428333,0.0 -68.71083,-20.969535,0.0 -68.710666667,-20.969456667,0.0 -68.710576667,-20.969303333,0.0 -68.710955,-20.970395,0.0 -68.710928333,-20.975046667,0.0 -68.711883333,-20.975511667,0.0 -68.711895,-20.975508333,0.0 -68.71277,-20.973885,0.0 -68.713185,-20.971371667,0.0 -68.713643333,-20.972308333,0.0 -68.7139,-20.974603333,0.0 -68.713536667,-20.97696,0.0 -68.714978333,-20.974575,0.0 -68.71527,-20.972226667,0.0 -68.716188333,-20.969985,0.0 -68.715486667,-20.967465,0.0 -68.714611667,-20.965158333,0.0 -68.712958333,-20.963066667,0.0 -68.71209,-20.961911667,0.0 -68.715385,-20.961983333,0.0 -68.716821667,-20.957443333,0.0 -68.714105,-20.95724,0.0 -68.712878333,-20.956411667,0.0 -68.716413333,-20.955883333,0.0 -68.71691,-20.954618333,0.0 -68.715936667,-20.95394,0.0 -68.715941667,-20.953906667,0.0 -68.716235,-20.954913333,0.0 -68.713935,-20.9561,0.0 -68.715346667,-20.957528333,0.0 -68.715493333,-20.960808333,0.0 -68.710255,-20.962355,0.0 -68.702976667,-20.963506667,0.0 -68.697545,-20.96791,0.0 -68.694993333,-20.973346667,0.0 -68.69768,-20.977983333,0.0 -68.704408333,-20.979173333,0.0 -68.704981667,-20.978273333,0.0 -68.699948333,-20.975775,0.0 -68.701518333,-20.976765,0.0 -68.701518333,-20.976765,0.0 -68.707126667,-20.97438,0.0 -68.704178333,-20.975476667,0.0 -68.702396667,-20.972798333,0.0 -68.702626667,-20.972603333,0.0 -68.702653333,-20.972681667,0.0 -68.70266,-20.972545,0.0 -68.702721667,-20.972388333,0.0 -68.702721667,-20.972388333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11304">
+            <name>DÉPART T80</name>
+            <description>Début de la mission 80
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11305</styleUrl>
+            <Point id="11303">
+                <coordinates>-68.716016667,-20.952916667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11309">
+            <name>ARRIVÉE T80</name>
+            <description>Fin de la mission 80
+Destination atteinte.</description>
+            <styleUrl>#11310</styleUrl>
+            <Point id="11308">
+                <coordinates>-68.702721667,-20.972388333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11314">
+            <name>Trajet 88 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 88
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 18.8 km/h
+⚡ Vitesse max : 38.7 km/h
+🏔️ Altitude moyenne : 4803.4 m
+🔥 Indice de Stress : 0.44/1.0</description>
+            <styleUrl>#11315</styleUrl>
+            <LineString id="11313">
+                <coordinates>-68.70137,-21.006713333,0.0 -68.701763333,-21.007963333,0.0 -68.6972,-21.003361667,0.0 -68.691386667,-20.99673,0.0 -68.690548333,-20.990591667,0.0 -68.688073333,-20.98526,0.0 -68.689455,-20.981855,0.0 -68.69463,-20.986626667,0.0 -68.697448333,-20.98703,0.0 -68.695903333,-20.985963333,0.0 -68.696401667,-20.985976667,0.0 -68.697136667,-20.986213333,0.0 -68.697136667,-20.986213333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11318">
+            <name>DÉPART T88</name>
+            <description>Début de la mission 88
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11319</styleUrl>
+            <Point id="11317">
+                <coordinates>-68.70137,-21.006713333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11323">
+            <name>ARRIVÉE T88</name>
+            <description>Fin de la mission 88
+Destination atteinte.</description>
+            <styleUrl>#11324</styleUrl>
+            <Point id="11322">
+                <coordinates>-68.697136667,-20.986213333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11328">
+            <name>Trajet 97 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 97
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 22.5 km/h
+⚡ Vitesse max : 47.6 km/h
+🏔️ Altitude moyenne : 4638.1 m
+🔥 Indice de Stress : 0.49/1.0</description>
+            <styleUrl>#11329</styleUrl>
+            <LineString id="11327">
+                <coordinates>-68.703565,-20.983916667,0.0 -68.70067,-20.983466667,0.0 -68.69853,-20.983416667,0.0 -68.702313333,-20.98532,0.0 -68.708911667,-20.984205,0.0 -68.71571,-20.98081,0.0 -68.724435,-20.97961,0.0 -68.730161667,-20.981128333,0.0 -68.733843333,-20.98162,0.0 -68.733581667,-20.984011667,0.0 -68.733805,-20.984083333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11332">
+            <name>DÉPART T97</name>
+            <description>Début de la mission 97
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11333</styleUrl>
+            <Point id="11331">
+                <coordinates>-68.703565,-20.983916667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11337">
+            <name>ARRIVÉE T97</name>
+            <description>Fin de la mission 97
+Destination atteinte.</description>
+            <styleUrl>#11338</styleUrl>
+            <Point id="11336">
+                <coordinates>-68.733805,-20.984083333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11342">
+            <name>Trajet 106 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 106
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 26.9 km/h
+⚡ Vitesse max : 40.9 km/h
+🏔️ Altitude moyenne : 4314.5 m
+🔥 Indice de Stress : 0.51/1.0</description>
+            <styleUrl>#11343</styleUrl>
+            <LineString id="11341">
+                <coordinates>-68.708535,-20.959365,0.0 -68.710013333,-20.962535,0.0 -68.701311667,-20.96405,0.0 -68.695583333,-20.969845,0.0 -68.69626,-20.97697,0.0 -68.703075,-20.979131667,0.0 -68.705713333,-20.978233333,0.0 -68.69993,-20.975798333,0.0 -68.701263333,-20.970613333,0.0 -68.703378333,-20.969398333,0.0 -68.700488333,-20.973535,0.0 -68.700176667,-20.973238333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11346">
+            <name>DÉPART T106</name>
+            <description>Début de la mission 106
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11347</styleUrl>
+            <Point id="11345">
+                <coordinates>-68.708535,-20.959365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11351">
+            <name>ARRIVÉE T106</name>
+            <description>Fin de la mission 106
+Destination atteinte.</description>
+            <styleUrl>#11352</styleUrl>
+            <Point id="11350">
+                <coordinates>-68.700176667,-20.973238333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11356">
+            <name>Trajet 115 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 115
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 17.3 km/h
+⚡ Vitesse max : 41.7 km/h
+🏔️ Altitude moyenne : 4472.4 m
+🔥 Indice de Stress : 0.45/1.0</description>
+            <styleUrl>#11357</styleUrl>
+            <LineString id="11355">
+                <coordinates>-68.69794,-20.970255,0.0 -68.69596,-20.972841667,0.0 -68.69521,-20.97335,0.0 -68.696438333,-20.969188333,0.0 -68.699461667,-20.966025,0.0 -68.701266667,-20.964323333,0.0 -68.703735,-20.963478333,0.0 -68.707685,-20.962773333,0.0 -68.709975,-20.961075,0.0 -68.708376667,-20.959868333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11360">
+            <name>DÉPART T115</name>
+            <description>Début de la mission 115
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11361</styleUrl>
+            <Point id="11359">
+                <coordinates>-68.69794,-20.970255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11365">
+            <name>ARRIVÉE T115</name>
+            <description>Fin de la mission 115
+Destination atteinte.</description>
+            <styleUrl>#11366</styleUrl>
+            <Point id="11364">
+                <coordinates>-68.708376667,-20.959868333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11370">
+            <name>Trajet 124 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 124
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 31.0 km/h
+⚡ Vitesse max : 41.3 km/h
+🏔️ Altitude moyenne : 4511.4 m
+🔥 Indice de Stress : 0.55/1.0</description>
+            <styleUrl>#11371</styleUrl>
+            <LineString id="11369">
+                <coordinates>-68.716061667,-20.953656667,0.0 -68.71605,-20.955721667,0.0 -68.716195,-20.957631667,0.0 -68.71396,-20.96136,0.0 -68.70908,-20.962608333,0.0 -68.701368333,-20.964046667,0.0 -68.696835,-20.96853,0.0 -68.704628333,-20.97922,0.0 -68.70337,-20.977913333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11374">
+            <name>DÉPART T124</name>
+            <description>Début de la mission 124
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11375</styleUrl>
+            <Point id="11373">
+                <coordinates>-68.716061667,-20.953656667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11379">
+            <name>ARRIVÉE T124</name>
+            <description>Fin de la mission 124
+Destination atteinte.</description>
+            <styleUrl>#11380</styleUrl>
+            <Point id="11378">
+                <coordinates>-68.70337,-20.977913333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11384">
+            <name>Trajet 133 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 133
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 7.6 km/h
+⚡ Vitesse max : 42.4 km/h
+🏔️ Altitude moyenne : 4579.2 m
+🔥 Indice de Stress : 0.37/1.0</description>
+            <styleUrl>#11385</styleUrl>
+            <LineString id="11383">
+                <coordinates>-68.7077,-20.962788333,0.0 -68.709438333,-20.960423333,0.0 -68.708881667,-20.959168333,0.0 -68.708881667,-20.959168333,0.0 -68.708881667,-20.959168333,0.0 -68.708468333,-20.959455,0.0 -68.708468333,-20.959455,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11388">
+            <name>DÉPART T133</name>
+            <description>Début de la mission 133
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11389</styleUrl>
+            <Point id="11387">
+                <coordinates>-68.7077,-20.962788333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11393">
+            <name>ARRIVÉE T133</name>
+            <description>Fin de la mission 133
+Destination atteinte.</description>
+            <styleUrl>#11394</styleUrl>
+            <Point id="11392">
+                <coordinates>-68.708468333,-20.959455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11398">
+            <name>Trajet 142 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 142
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 20.3 km/h
+⚡ Vitesse max : 41.7 km/h
+🏔️ Altitude moyenne : 4717.9 m
+🔥 Indice de Stress : 0.46/1.0</description>
+            <styleUrl>#11399</styleUrl>
+            <LineString id="11397">
+                <coordinates>-68.713965,-20.954578333,0.0 -68.716705,-20.955593333,0.0 -68.71402,-20.957451667,0.0 -68.715583333,-20.96073,0.0 -68.710956667,-20.961951667,0.0 -68.705025,-20.96147,0.0 -68.699701667,-20.959626667,0.0 -68.693376667,-20.961541667,0.0 -68.690676667,-20.96711,0.0 -68.687503333,-20.971421667,0.0 -68.684166667,-20.974045,0.0 -68.680578333,-20.977773333,0.0 -68.687191667,-20.978971667,0.0 -68.690248333,-20.983553333,0.0 -68.692675,-20.985671667,0.0 -68.69566,-20.987166667,0.0 -68.697803333,-20.987291667,0.0 -68.69555,-20.98592,0.0 -68.696896667,-20.985926667,0.0 -68.697196667,-20.985813333,0.0 -68.697191667,-20.985865,0.0 -68.697191667,-20.985865,0.0 -68.697343333,-20.986023333,0.0 -68.697343333,-20.986023333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11402">
+            <name>DÉPART T142</name>
+            <description>Début de la mission 142
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11403</styleUrl>
+            <Point id="11401">
+                <coordinates>-68.713965,-20.954578333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11407">
+            <name>ARRIVÉE T142</name>
+            <description>Fin de la mission 142
+Destination atteinte.</description>
+            <styleUrl>#11408</styleUrl>
+            <Point id="11406">
+                <coordinates>-68.697343333,-20.986023333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11412">
+            <name>Trajet 151 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 151
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 12.9 km/h
+⚡ Vitesse max : 26.1 km/h
+🏔️ Altitude moyenne : 4580.3 m
+🔥 Indice de Stress : 0.41/1.0</description>
+            <styleUrl>#11413</styleUrl>
+            <LineString id="11411">
+                <coordinates>-68.732655,-20.954636667,0.0 -68.729306667,-20.9557,0.0 -68.717336667,-20.958733333,0.0 -68.710985,-20.961931667,0.0 -68.70883,-20.959151667,0.0 -68.70844,-20.959468333,0.0 -68.70844,-20.959468333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11416">
+            <name>DÉPART T151</name>
+            <description>Début de la mission 151
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11417</styleUrl>
+            <Point id="11415">
+                <coordinates>-68.732655,-20.954636667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11421">
+            <name>ARRIVÉE T151</name>
+            <description>Fin de la mission 151
+Destination atteinte.</description>
+            <styleUrl>#11422</styleUrl>
+            <Point id="11420">
+                <coordinates>-68.70844,-20.959468333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11426">
+            <name>Trajet 160 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 160
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 19.3 km/h
+⚡ Vitesse max : 35.2 km/h
+🏔️ Altitude moyenne : 4303.2 m
+🔥 Indice de Stress : 0.45/1.0</description>
+            <styleUrl>#11427</styleUrl>
+            <LineString id="11425">
+                <coordinates>-68.708408333,-20.959946667,0.0 -68.709923333,-20.962505,0.0 -68.702618333,-20.963575,0.0 -68.697636667,-20.967848333,0.0 -68.69502,-20.972775,0.0 -68.697458333,-20.97773,0.0 -68.703303333,-20.97913,0.0 -68.70607,-20.978098333,0.0 -68.700283333,-20.976561667,0.0 -68.699448333,-20.972165,0.0 -68.704315,-20.96851,0.0 -68.701413333,-20.972001667,0.0 -68.700285,-20.973321667,0.0 -68.699871667,-20.972981667,0.0 -68.699793333,-20.973026667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11430">
+            <name>DÉPART T160</name>
+            <description>Début de la mission 160
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11431</styleUrl>
+            <Point id="11429">
+                <coordinates>-68.708408333,-20.959946667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11435">
+            <name>ARRIVÉE T160</name>
+            <description>Fin de la mission 160
+Destination atteinte.</description>
+            <styleUrl>#11436</styleUrl>
+            <Point id="11434">
+                <coordinates>-68.699793333,-20.973026667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11440">
+            <name>Trajet 169 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 169
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 15.2 km/h
+⚡ Vitesse max : 35.2 km/h
+🏔️ Altitude moyenne : 4503.3 m
+🔥 Indice de Stress : 0.43/1.0</description>
+            <styleUrl>#11441</styleUrl>
+            <LineString id="11439">
+                <coordinates>-68.710996667,-20.973266667,0.0 -68.71056,-20.975315,0.0 -68.712925,-20.97328,0.0 -68.713591667,-20.971195,0.0 -68.713845,-20.973913333,0.0 -68.713745,-20.976306667,0.0 -68.715255,-20.972465,0.0 -68.716208333,-20.969973333,0.0 -68.71524,-20.966718333,0.0 -68.7141,-20.964155,0.0 -68.71192,-20.962705,0.0 -68.71339,-20.961375,0.0 -68.717218333,-20.959733333,0.0 -68.715456667,-20.957251667,0.0 -68.712865,-20.95705,0.0 -68.71509,-20.956163333,0.0 -68.718135,-20.955101667,0.0 -68.715086667,-20.95457,0.0 -68.713905,-20.954746667,0.0 -68.713818333,-20.95463,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11444">
+            <name>DÉPART T169</name>
+            <description>Début de la mission 169
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11445</styleUrl>
+            <Point id="11443">
+                <coordinates>-68.710996667,-20.973266667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11449">
+            <name>ARRIVÉE T169</name>
+            <description>Fin de la mission 169
+Destination atteinte.</description>
+            <styleUrl>#11450</styleUrl>
+            <Point id="11448">
+                <coordinates>-68.713818333,-20.95463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11454">
+            <name>Trajet 177 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 177
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 14.7 km/h
+⚡ Vitesse max : 31.9 km/h
+🏔️ Altitude moyenne : 4816.4 m
+🔥 Indice de Stress : 0.43/1.0</description>
+            <styleUrl>#11455</styleUrl>
+            <LineString id="11453">
+                <coordinates>-68.699275,-20.987785,0.0 -68.696631667,-20.987371667,0.0 -68.69206,-20.984866667,0.0 -68.69093,-20.98394,0.0 -68.689028333,-20.982011667,0.0 -68.687996667,-20.983361667,0.0 -68.687693333,-20.985335,0.0 -68.689135,-20.987545,0.0 -68.69029,-20.990226667,0.0 -68.69068,-20.994263333,0.0 -68.691973333,-20.999325,0.0 -68.696293333,-21.002746667,0.0 -68.698128333,-21.004838333,0.0 -68.700795,-21.007341667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11458">
+            <name>DÉPART T177</name>
+            <description>Début de la mission 177
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11459</styleUrl>
+            <Point id="11457">
+                <coordinates>-68.699275,-20.987785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11463">
+            <name>ARRIVÉE T177</name>
+            <description>Fin de la mission 177
+Destination atteinte.</description>
+            <styleUrl>#11464</styleUrl>
+            <Point id="11462">
+                <coordinates>-68.700795,-21.007341667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11468">
+            <name>Trajet 186 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 186
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 14.0 km/h
+⚡ Vitesse max : 31.5 km/h
+🏔️ Altitude moyenne : 4603.5 m
+🔥 Indice de Stress : 0.41/1.0</description>
+            <styleUrl>#11469</styleUrl>
+            <LineString id="11467">
+                <coordinates>-68.734491667,-20.976441667,0.0 -68.735736667,-20.976295,0.0 -68.738596667,-20.973331667,0.0 -68.732451667,-20.972376667,0.0 -68.72602,-20.971105,0.0 -68.723473333,-20.970323333,0.0 -68.719313333,-20.97217,0.0 -68.719313333,-20.97217,0.0 -68.718661667,-20.972788333,0.0 -68.718746667,-20.973116667,0.0 -68.718746667,-20.973116667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11472">
+            <name>DÉPART T186</name>
+            <description>Début de la mission 186
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11473</styleUrl>
+            <Point id="11471">
+                <coordinates>-68.734491667,-20.976441667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11477">
+            <name>ARRIVÉE T186</name>
+            <description>Fin de la mission 186
+Destination atteinte.</description>
+            <styleUrl>#11478</styleUrl>
+            <Point id="11476">
+                <coordinates>-68.718746667,-20.973116667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11482">
+            <name>Trajet 195 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 195
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 13.6 km/h
+⚡ Vitesse max : 46.9 km/h
+🏔️ Altitude moyenne : 4594.7 m
+🔥 Indice de Stress : 0.41/1.0</description>
+            <styleUrl>#11483</styleUrl>
+            <LineString id="11481">
+                <coordinates>-68.732675,-20.954008333,0.0 -68.732686667,-20.953993333,0.0 -68.732686667,-20.953993333,0.0 -68.732686667,-20.953993333,0.0 -68.732645,-20.954011667,0.0 -68.72933,-20.954858333,0.0 -68.723785,-20.95606,0.0 -68.717145,-20.959055,0.0 -68.712538333,-20.960991667,0.0 -68.7095,-20.960466667,0.0 -68.708363333,-20.959858333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11486">
+            <name>DÉPART T195</name>
+            <description>Début de la mission 195
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11487</styleUrl>
+            <Point id="11485">
+                <coordinates>-68.732675,-20.954008333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11491">
+            <name>ARRIVÉE T195</name>
+            <description>Fin de la mission 195
+Destination atteinte.</description>
+            <styleUrl>#11492</styleUrl>
+            <Point id="11490">
+                <coordinates>-68.708363333,-20.959858333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11496">
+            <name>Trajet 204 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 204
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 20.8 km/h
+⚡ Vitesse max : 33.5 km/h
+🏔️ Altitude moyenne : 4653.9 m
+🔥 Indice de Stress : 0.46/1.0</description>
+            <styleUrl>#11497</styleUrl>
+            <LineString id="11495">
+                <coordinates>-68.716585,-20.953161667,0.0 -68.716585,-20.953161667,0.0 -68.715041667,-20.954781667,0.0 -68.715245,-20.955858333,0.0 -68.713898333,-20.957361667,0.0 -68.716603333,-20.959733333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11500">
+            <name>DÉPART T204</name>
+            <description>Début de la mission 204
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11501</styleUrl>
+            <Point id="11499">
+                <coordinates>-68.716585,-20.953161667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11505">
+            <name>ARRIVÉE T204</name>
+            <description>Fin de la mission 204
+Destination atteinte.</description>
+            <styleUrl>#11506</styleUrl>
+            <Point id="11504">
+                <coordinates>-68.716603333,-20.959733333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11510">
+            <name>Trajet 213 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 213
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 13.7 km/h
+⚡ Vitesse max : 32.6 km/h
+🏔️ Altitude moyenne : 4431.5 m
+🔥 Indice de Stress : 0.41/1.0</description>
+            <styleUrl>#11511</styleUrl>
+            <LineString id="11509">
+                <coordinates>-68.703971667,-20.970341667,0.0 -68.698286667,-20.972243333,0.0 -68.700468333,-20.96939,0.0 -68.695331667,-20.974553333,0.0 -68.695463333,-20.971721667,0.0 -68.6976,-20.96809,0.0 -68.700028333,-20.965421667,0.0 -68.702288333,-20.963986667,0.0 -68.704966667,-20.96316,0.0 -68.710835,-20.962493333,0.0 -68.709255,-20.959643333,0.0 -68.708526667,-20.959171667,0.0 -68.708458333,-20.959451667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11514">
+            <name>DÉPART T213</name>
+            <description>Début de la mission 213
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11515</styleUrl>
+            <Point id="11513">
+                <coordinates>-68.703971667,-20.970341667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11519">
+            <name>ARRIVÉE T213</name>
+            <description>Fin de la mission 213
+Destination atteinte.</description>
+            <styleUrl>#11520</styleUrl>
+            <Point id="11518">
+                <coordinates>-68.708458333,-20.959451667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11524">
+            <name>Trajet 222 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 222
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 5.3 km/h
+⚡ Vitesse max : 34.3 km/h
+🏔️ Altitude moyenne : 4608.9 m
+🔥 Indice de Stress : 0.33/1.0</description>
+            <styleUrl>#11525</styleUrl>
+            <LineString id="11523">
+                <coordinates>-68.708415,-20.959971667,0.0 -68.71059,-20.962528333,0.0 -68.713185,-20.961366667,0.0 -68.716355,-20.963796667,0.0 -68.72147,-20.966543333,0.0 -68.725861667,-20.967633333,0.0 -68.723193333,-20.970493333,0.0 -68.719465,-20.97355,0.0 -68.718148333,-20.978595,0.0 -68.716395,-20.98086,0.0 -68.721148333,-20.978643333,0.0 -68.723688333,-20.976978333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.72373,-20.977078333,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723705,-20.977101667,0.0 -68.723753333,-20.977105,0.0 -68.72319,-20.976263333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721698333,-20.975028333,0.0 -68.721403333,-20.977285,0.0 -68.717646667,-20.980031667,0.0 -68.716213333,-20.980323333,0.0 -68.719483333,-20.974666667,0.0 -68.719286667,-20.97243,0.0 -68.719103333,-20.973263333,0.0 -68.719088333,-20.973293333,0.0 -68.718836667,-20.973528333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11528">
+            <name>DÉPART T222</name>
+            <description>Début de la mission 222
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11529</styleUrl>
+            <Point id="11527">
+                <coordinates>-68.708415,-20.959971667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11533">
+            <name>ARRIVÉE T222</name>
+            <description>Fin de la mission 222
+Destination atteinte.</description>
+            <styleUrl>#11534</styleUrl>
+            <Point id="11532">
+                <coordinates>-68.718836667,-20.973528333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11538">
+            <name>Trajet 231 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 231
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 15.2 km/h
+⚡ Vitesse max : 41.5 km/h
+🏔️ Altitude moyenne : 4490.8 m
+🔥 Indice de Stress : 0.43/1.0</description>
+            <styleUrl>#11539</styleUrl>
+            <LineString id="11537">
+                <coordinates>-68.700206667,-20.969756667,0.0 -68.695515,-20.974325,0.0 -68.69529,-20.972368333,0.0 -68.698456667,-20.967186667,0.0 -68.700666667,-20.964698333,0.0 -68.703651667,-20.963536667,0.0 -68.707521667,-20.962791667,0.0 -68.71,-20.961121667,0.0 -68.708936667,-20.959141667,0.0 -68.708936667,-20.959141667,0.0 -68.708463333,-20.959316667,0.0 -68.708475,-20.959445,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11542">
+            <name>DÉPART T231</name>
+            <description>Début de la mission 231
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11543</styleUrl>
+            <Point id="11541">
+                <coordinates>-68.700206667,-20.969756667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11547">
+            <name>ARRIVÉE T231</name>
+            <description>Fin de la mission 231
+Destination atteinte.</description>
+            <styleUrl>#11548</styleUrl>
+            <Point id="11546">
+                <coordinates>-68.708475,-20.959445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11552">
+            <name>Trajet 240 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 240
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 19.5 km/h
+⚡ Vitesse max : 38.0 km/h
+🏔️ Altitude moyenne : 4331.3 m
+🔥 Indice de Stress : 0.45/1.0</description>
+            <styleUrl>#11553</styleUrl>
+            <LineString id="11551">
+                <coordinates>-68.708601667,-20.959365,0.0 -68.709681667,-20.961326667,0.0 -68.706393333,-20.962575,0.0 -68.700606667,-20.964408333,0.0 -68.695493333,-20.970091667,0.0 -68.695665,-20.976601667,0.0 -68.701533333,-20.979156667,0.0 -68.707198333,-20.977808333,0.0 -68.700133333,-20.976116667,0.0 -68.702923333,-20.969341667,0.0 -68.703285,-20.969536667,0.0 -68.699896667,-20.973931667,0.0 -68.699721667,-20.973951667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11556">
+            <name>DÉPART T240</name>
+            <description>Début de la mission 240
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11557</styleUrl>
+            <Point id="11555">
+                <coordinates>-68.708601667,-20.959365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11561">
+            <name>ARRIVÉE T240</name>
+            <description>Fin de la mission 240
+Destination atteinte.</description>
+            <styleUrl>#11562</styleUrl>
+            <Point id="11560">
+                <coordinates>-68.699721667,-20.973951667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11566">
+            <name>Trajet 249 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 249
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 14.2 km/h
+⚡ Vitesse max : 43.9 km/h
+🏔️ Altitude moyenne : 4424.8 m
+🔥 Indice de Stress : 0.42/1.0</description>
+            <styleUrl>#11567</styleUrl>
+            <LineString id="11565">
+                <coordinates>-68.700413333,-20.971385,0.0 -68.697841667,-20.974185,0.0 -68.700573333,-20.969355,0.0 -68.701406667,-20.967521667,0.0 -68.696565,-20.971661667,0.0 -68.695003333,-20.975398333,0.0 -68.695298333,-20.972753333,0.0 -68.695841667,-20.969735,0.0 -68.699191667,-20.966285,0.0 -68.701751667,-20.964145,0.0 -68.704378333,-20.963296667,0.0 -68.709983333,-20.962746667,0.0 -68.709291667,-20.959966667,0.0 -68.708486667,-20.959408333,0.0 -68.708486667,-20.959408333,0.0 -68.708486667,-20.959408333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11570">
+            <name>DÉPART T249</name>
+            <description>Début de la mission 249
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11571</styleUrl>
+            <Point id="11569">
+                <coordinates>-68.700413333,-20.971385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11575">
+            <name>ARRIVÉE T249</name>
+            <description>Fin de la mission 249
+Destination atteinte.</description>
+            <styleUrl>#11576</styleUrl>
+            <Point id="11574">
+                <coordinates>-68.708486667,-20.959408333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11580">
+            <name>Trajet 258 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 258
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 3.7 km/h
+⚡ Vitesse max : 39.1 km/h
+🏔️ Altitude moyenne : 4616.7 m
+🔥 Indice de Stress : 0.33/1.0</description>
+            <styleUrl>#11581</styleUrl>
+            <LineString id="11579">
+                <coordinates>-68.727596667,-20.961276667,0.0 -68.727818333,-20.962725,0.0 -68.716803333,-20.979706667,0.0 -68.718008333,-20.980138333,0.0 -68.72164,-20.977641667,0.0 -68.723625,-20.976541667,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723703333,-20.976555,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723695,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.723728333,-20.976553333,0.0 -68.722858333,-20.976055,0.0 -68.720776667,-20.978471667,0.0 -68.715796667,-20.980635,0.0 -68.71847,-20.978386667,0.0 -68.720428333,-20.972156667,0.0 -68.718685,-20.973495,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11584">
+            <name>DÉPART T258</name>
+            <description>Début de la mission 258
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11585</styleUrl>
+            <Point id="11583">
+                <coordinates>-68.727596667,-20.961276667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11589">
+            <name>ARRIVÉE T258</name>
+            <description>Fin de la mission 258
+Destination atteinte.</description>
+            <styleUrl>#11590</styleUrl>
+            <Point id="11588">
+                <coordinates>-68.718685,-20.973495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11594">
+            <name>Trajet 266 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 266
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 14.4 km/h
+⚡ Vitesse max : 43.9 km/h
+🏔️ Altitude moyenne : 4589.7 m
+🔥 Indice de Stress : 0.43/1.0</description>
+            <styleUrl>#11595</styleUrl>
+            <LineString id="11593">
+                <coordinates>-68.708538333,-20.959411667,0.0 -68.709716667,-20.961425,0.0 -68.713526667,-20.961448333,0.0 -68.717943333,-20.959021667,0.0 -68.729515,-20.955965,0.0 -68.731316667,-20.953611667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0 -68.732938333,-20.954121667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11598">
+            <name>DÉPART T266</name>
+            <description>Début de la mission 266
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11599</styleUrl>
+            <Point id="11597">
+                <coordinates>-68.708538333,-20.959411667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11603">
+            <name>ARRIVÉE T266</name>
+            <description>Fin de la mission 266
+Destination atteinte.</description>
+            <styleUrl>#11604</styleUrl>
+            <Point id="11602">
+                <coordinates>-68.732938333,-20.954121667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11608">
+            <name>Trajet 275 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 275
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 31.3 km/h
+⚡ Vitesse max : 50.7 km/h
+🏔️ Altitude moyenne : 4680.4 m
+🔥 Indice de Stress : 0.58/1.0</description>
+            <styleUrl>#11609</styleUrl>
+            <LineString id="11607">
+                <coordinates>-68.687613333,-20.971546667,0.0 -68.692571667,-20.96236,0.0 -68.701048333,-20.957696667,0.0 -68.707375,-20.949815,0.0 -68.711948333,-20.94616,0.0 -68.712625,-20.94602,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11612">
+            <name>DÉPART T275</name>
+            <description>Début de la mission 275
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11613</styleUrl>
+            <Point id="11611">
+                <coordinates>-68.687613333,-20.971546667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11617">
+            <name>ARRIVÉE T275</name>
+            <description>Fin de la mission 275
+Destination atteinte.</description>
+            <styleUrl>#11618</styleUrl>
+            <Point id="11616">
+                <coordinates>-68.712625,-20.94602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11622">
+            <name>Trajet 284 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 284
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 20.6 km/h
+⚡ Vitesse max : 45.6 km/h
+🏔️ Altitude moyenne : 4294.4 m
+🔥 Indice de Stress : 0.48/1.0</description>
+            <styleUrl>#11623</styleUrl>
+            <LineString id="11621">
+                <coordinates>-68.708575,-20.959383333,0.0 -68.71029,-20.96215,0.0 -68.702918333,-20.963525,0.0 -68.696656667,-20.968733333,0.0 -68.694816667,-20.975708333,0.0 -68.70211,-20.979065,0.0 -68.70664,-20.977973333,0.0 -68.70091,-20.970913333,0.0 -68.702791667,-20.969883333,0.0 -68.700731667,-20.972093333,0.0 -68.700731667,-20.972093333,0.0 -68.701,-20.972318333,0.0 -68.700963333,-20.972346667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11626">
+            <name>DÉPART T284</name>
+            <description>Début de la mission 284
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11627</styleUrl>
+            <Point id="11625">
+                <coordinates>-68.708575,-20.959383333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11631">
+            <name>ARRIVÉE T284</name>
+            <description>Fin de la mission 284
+Destination atteinte.</description>
+            <styleUrl>#11632</styleUrl>
+            <Point id="11630">
+                <coordinates>-68.700963333,-20.972346667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11636">
+            <name>Trajet 293 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 293
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 15.2 km/h
+⚡ Vitesse max : 37.8 km/h
+🏔️ Altitude moyenne : 4467.4 m
+🔥 Indice de Stress : 0.45/1.0</description>
+            <styleUrl>#11637</styleUrl>
+            <LineString id="11635">
+                <coordinates>-68.710618333,-20.974395,0.0 -68.711175,-20.972393333,0.0 -68.710411667,-20.975781667,0.0 -68.71261,-20.974661667,0.0 -68.71304,-20.97223,0.0 -68.713563333,-20.97154,0.0 -68.713831667,-20.97405,0.0 -68.713466667,-20.976518333,0.0 -68.714808333,-20.975125,0.0 -68.715213333,-20.972435,0.0 -68.716063333,-20.970095,0.0 -68.715126667,-20.966586667,0.0 -68.71413,-20.964276667,0.0 -68.711983333,-20.9627,0.0 -68.713556667,-20.961456667,0.0 -68.717445,-20.959375,0.0 -68.715478333,-20.957283333,0.0 -68.712783333,-20.957056667,0.0 -68.714978333,-20.956168333,0.0 -68.717783333,-20.955486667,0.0 -68.71534,-20.954593333,0.0 -68.716523333,-20.95363,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11640">
+            <name>DÉPART T293</name>
+            <description>Début de la mission 293
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11641</styleUrl>
+            <Point id="11639">
+                <coordinates>-68.710618333,-20.974395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11645">
+            <name>ARRIVÉE T293</name>
+            <description>Fin de la mission 293
+Destination atteinte.</description>
+            <styleUrl>#11646</styleUrl>
+            <Point id="11644">
+                <coordinates>-68.716523333,-20.95363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11650">
+            <name>Trajet 302 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 302
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 8.2 km/h
+⚡ Vitesse max : 50.0 km/h
+🏔️ Altitude moyenne : 4603.4 m
+🔥 Indice de Stress : 0.37/1.0</description>
+            <styleUrl>#11651</styleUrl>
+            <LineString id="11649">
+                <coordinates>-68.734663333,-20.975585,0.0 -68.737811667,-20.974881667,0.0 -68.735325,-20.972528333,0.0 -68.72854,-20.971568333,0.0 -68.724391667,-20.969856667,0.0 -68.722683333,-20.967156667,0.0 -68.715426667,-20.963695,0.0 -68.718355,-20.958735,0.0 -68.727386667,-20.956326667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.730881667,-20.952916667,0.0 -68.731053333,-20.95299,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.731798333,-20.954558333,0.0 -68.732983333,-20.954801667,0.0 -68.732983333,-20.954801667,0.0 -68.732983333,-20.954801667,0.0 -68.732983333,-20.954801667,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.733093333,-20.95448,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0 -68.732916667,-20.953996667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11654">
+            <name>DÉPART T302</name>
+            <description>Début de la mission 302
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11655</styleUrl>
+            <Point id="11653">
+                <coordinates>-68.734663333,-20.975585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11659">
+            <name>ARRIVÉE T302</name>
+            <description>Fin de la mission 302
+Destination atteinte.</description>
+            <styleUrl>#11660</styleUrl>
+            <Point id="11658">
+                <coordinates>-68.732916667,-20.953996667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11664">
+            <name>Trajet 311 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 311
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 18.5 km/h
+⚡ Vitesse max : 40.7 km/h
+🏔️ Altitude moyenne : 4484.8 m
+🔥 Indice de Stress : 0.48/1.0</description>
+            <styleUrl>#11665</styleUrl>
+            <LineString id="11663">
+                <coordinates>-68.704155,-20.96984,0.0 -68.701926667,-20.971061667,0.0 -68.704433333,-20.968835,0.0 -68.702141667,-20.96975,0.0 -68.698411667,-20.973755,0.0 -68.69786,-20.974468333,0.0 -68.698295,-20.971966667,0.0 -68.699845,-20.970125,0.0 -68.701595,-20.968228333,0.0 -68.700811667,-20.968175,0.0 -68.696975,-20.970863333,0.0 -68.695911667,-20.973076667,0.0 -68.695035,-20.975388333,0.0 -68.695208333,-20.973205,0.0 -68.695641667,-20.970713333,0.0 -68.697061667,-20.96867,0.0 -68.699626667,-20.965823333,0.0 -68.701616667,-20.96423,0.0 -68.70417,-20.963331667,0.0 -68.708955,-20.96284,0.0 -68.7098,-20.961261667,0.0 -68.706058333,-20.961483333,0.0 -68.702258333,-20.961586667,0.0 -68.699606667,-20.95965,0.0 -68.695963333,-20.960125,0.0 -68.69362,-20.961461667,0.0 -68.69089,-20.966073333,0.0 -68.688326667,-20.970843333,0.0 -68.685538333,-20.972965,0.0 -68.682201667,-20.975365,0.0 -68.680081667,-20.97781,0.0 -68.676898333,-20.97956,0.0 -68.67353,-20.981195,0.0 -68.670563333,-20.984301667,0.0 -68.667911667,-20.986761667,0.0 -68.663976667,-20.986463333,0.0 -68.659771667,-20.988308333,0.0 -68.659763333,-20.98648,0.0 -68.662141667,-20.983666667,0.0 -68.660098333,-20.981873333,0.0 -68.656468333,-20.983168333,0.0 -68.653361667,-20.987523333,0.0 -68.655136667,-20.993638333,0.0 -68.653201667,-20.994828333,0.0 -68.648956667,-20.99238,0.0 -68.646496667,-20.989143333,0.0 -68.64289,-20.986713333,0.0 -68.637893333,-20.98552,0.0 -68.633433333,-20.984765,0.0 -68.633268333,-20.984675,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11668">
+            <name>DÉPART T311</name>
+            <description>Début de la mission 311
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11669</styleUrl>
+            <Point id="11667">
+                <coordinates>-68.704155,-20.96984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11673">
+            <name>ARRIVÉE T311</name>
+            <description>Fin de la mission 311
+Destination atteinte.</description>
+            <styleUrl>#11674</styleUrl>
+            <Point id="11672">
+                <coordinates>-68.633268333,-20.984675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11678">
+            <name>Trajet 320 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 320
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 7.5 km/h
+⚡ Vitesse max : 38.5 km/h
+🏔️ Altitude moyenne : 4676.5 m
+🔥 Indice de Stress : 0.36/1.0</description>
+            <styleUrl>#11679</styleUrl>
+            <LineString id="11677">
+                <coordinates>-68.735851667,-20.97486,0.0 -68.734468333,-20.977473333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734313333,-20.977538333,0.0 -68.734533333,-20.977461667,0.0 -68.734391667,-20.98028,0.0 -68.728448333,-20.979995,0.0 -68.720723333,-20.978666667,0.0 -68.714828333,-20.980791667,0.0 -68.710573333,-20.983478333,0.0 -68.704118333,-20.985506667,0.0 -68.699078333,-20.983568333,0.0 -68.696571667,-20.982606667,0.0 -68.696571667,-20.982606667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11682">
+            <name>DÉPART T320</name>
+            <description>Début de la mission 320
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11683</styleUrl>
+            <Point id="11681">
+                <coordinates>-68.735851667,-20.97486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11687">
+            <name>ARRIVÉE T320</name>
+            <description>Fin de la mission 320
+Destination atteinte.</description>
+            <styleUrl>#11688</styleUrl>
+            <Point id="11686">
+                <coordinates>-68.696571667,-20.982606667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11692">
+            <name>Trajet 329 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 329
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 19.6 km/h
+⚡ Vitesse max : 43.9 km/h
+🏔️ Altitude moyenne : 4631.7 m
+🔥 Indice de Stress : 0.47/1.0</description>
+            <styleUrl>#11693</styleUrl>
+            <LineString id="11691">
+                <coordinates>-68.705561667,-20.984043333,0.0 -68.705561667,-20.984043333,0.0 -68.704571667,-20.983783333,0.0 -68.70037,-20.983351667,0.0 -68.698383333,-20.983436667,0.0 -68.702253333,-20.985351667,0.0 -68.708223333,-20.98433,0.0 -68.713021667,-20.982343333,0.0 -68.717665,-20.980348333,0.0 -68.72535,-20.97983,0.0 -68.730771667,-20.981441667,0.0 -68.734588333,-20.980418333,0.0 -68.736006667,-20.976478333,0.0 -68.735225,-20.974841667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11696">
+            <name>DÉPART T329</name>
+            <description>Début de la mission 329
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11697</styleUrl>
+            <Point id="11695">
+                <coordinates>-68.705561667,-20.984043333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11701">
+            <name>ARRIVÉE T329</name>
+            <description>Fin de la mission 329
+Destination atteinte.</description>
+            <styleUrl>#11702</styleUrl>
+            <Point id="11700">
+                <coordinates>-68.735225,-20.974841667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11706">
+            <name>Trajet 338 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 338
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 6.6 km/h
+⚡ Vitesse max : 50.6 km/h
+🏔️ Altitude moyenne : 4544.6 m
+🔥 Indice de Stress : 0.35/1.0</description>
+            <styleUrl>#11707</styleUrl>
+            <LineString id="11705">
+                <coordinates>-68.708431667,-20.960015,0.0 -68.7114,-20.962176667,0.0 -68.715755,-20.961575,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727841667,-20.954158333,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727868333,-20.954136667,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.727253333,-20.954693333,0.0 -68.72624,-20.955661667,0.0 -68.718053333,-20.95821,0.0 -68.712736667,-20.960996667,0.0 -68.70418,-20.963031667,0.0 -68.697596667,-20.967968333,0.0 -68.69469,-20.975201667,0.0 -68.701563333,-20.979093333,0.0 -68.708805,-20.97678,0.0 -68.7101,-20.974613333,0.0 -68.71016,-20.974301667,0.0 -68.71016,-20.974301667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11710">
+            <name>DÉPART T338</name>
+            <description>Début de la mission 338
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11711</styleUrl>
+            <Point id="11709">
+                <coordinates>-68.708431667,-20.960015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11715">
+            <name>ARRIVÉE T338</name>
+            <description>Fin de la mission 338
+Destination atteinte.</description>
+            <styleUrl>#11716</styleUrl>
+            <Point id="11714">
+                <coordinates>-68.71016,-20.974301667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11720">
+            <name>Trajet 347 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 347
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 13.1 km/h
+⚡ Vitesse max : 25.2 km/h
+🏔️ Altitude moyenne : 4467.3 m
+🔥 Indice de Stress : 0.42/1.0</description>
+            <styleUrl>#11721</styleUrl>
+            <LineString id="11719">
+                <coordinates>-68.710646667,-20.968335,0.0 -68.711436667,-20.971728333,0.0 -68.710618333,-20.974518333,0.0 -68.709548333,-20.97614,0.0 -68.712203333,-20.97531,0.0 -68.712978333,-20.97301,0.0 -68.713305,-20.970711667,0.0 -68.713713333,-20.972895,0.0 -68.713911667,-20.975015,0.0 -68.713486667,-20.97698,0.0 -68.714875,-20.974906667,0.0 -68.715216667,-20.972485,0.0 -68.716036667,-20.970365,0.0 -68.715446667,-20.967378333,0.0 -68.71457,-20.965271667,0.0 -68.713175,-20.963205,0.0 -68.711346667,-20.962171667,0.0 -68.714166667,-20.96261,0.0 -68.717728333,-20.958851667,0.0 -68.715531667,-20.957311667,0.0 -68.713158333,-20.957133333,0.0 -68.714038333,-20.95628,0.0 -68.716795,-20.955723333,0.0 -68.716775,-20.954648333,0.0 -68.714341667,-20.954583333,0.0 -68.713196667,-20.954328333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11724">
+            <name>DÉPART T347</name>
+            <description>Début de la mission 347
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11725</styleUrl>
+            <Point id="11723">
+                <coordinates>-68.710646667,-20.968335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11729">
+            <name>ARRIVÉE T347</name>
+            <description>Fin de la mission 347
+Destination atteinte.</description>
+            <styleUrl>#11730</styleUrl>
+            <Point id="11728">
+                <coordinates>-68.713196667,-20.954328333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11734">
+            <name>Trajet 364 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 364
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 12.2 km/h
+⚡ Vitesse max : 37.2 km/h
+🏔️ Altitude moyenne : 4613.9 m
+🔥 Indice de Stress : 0.39/1.0</description>
+            <styleUrl>#11735</styleUrl>
+            <LineString id="11733">
+                <coordinates>-68.708438333,-20.960038333,0.0 -68.709703333,-20.96134,0.0 -68.712083333,-20.961926667,0.0 -68.714451667,-20.963363333,0.0 -68.720816667,-20.965353333,0.0 -68.72572,-20.968223333,0.0 -68.724023333,-20.966786667,0.0 -68.719498333,-20.964255,0.0 -68.714555,-20.963151667,0.0 -68.715936667,-20.96141,0.0 -68.717455,-20.957601667,0.0 -68.714295,-20.957233333,0.0 -68.713446667,-20.95643,0.0 -68.716183333,-20.95594,0.0 -68.716733333,-20.95465,0.0 -68.714686667,-20.953183333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.71426,-20.953308333,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714268333,-20.953351667,0.0 -68.714456667,-20.953966667,0.0 -68.717748333,-20.95497,0.0 -68.712026667,-20.956505,0.0 -68.717645,-20.958406667,0.0 -68.71188,-20.961591667,0.0 -68.699865,-20.97886,0.0 -68.707066667,-20.978118333,0.0 -68.7008,-20.977251667,0.0 -68.699853333,-20.9719,0.0 -68.701721667,-20.971678333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11738">
+            <name>DÉPART T364</name>
+            <description>Début de la mission 364
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11739</styleUrl>
+            <Point id="11737">
+                <coordinates>-68.708438333,-20.960038333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11743">
+            <name>ARRIVÉE T364</name>
+            <description>Fin de la mission 364
+Destination atteinte.</description>
+            <styleUrl>#11744</styleUrl>
+            <Point id="11742">
+                <coordinates>-68.701721667,-20.971678333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11748">
+            <name>Trajet 373 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 373
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 9.3 km/h
+⚡ Vitesse max : 30.4 km/h
+🏔️ Altitude moyenne : 4577.4 m
+🔥 Indice de Stress : 0.39/1.0</description>
+            <styleUrl>#11749</styleUrl>
+            <LineString id="11747">
+                <coordinates>-68.710458333,-20.961536667,0.0 -68.708913333,-20.959793333,0.0 -68.708376667,-20.959798333,0.0 -68.708376667,-20.959798333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11752">
+            <name>DÉPART T373</name>
+            <description>Début de la mission 373
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11753</styleUrl>
+            <Point id="11751">
+                <coordinates>-68.710458333,-20.961536667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11757">
+            <name>ARRIVÉE T373</name>
+            <description>Fin de la mission 373
+Destination atteinte.</description>
+            <styleUrl>#11758</styleUrl>
+            <Point id="11756">
+                <coordinates>-68.708376667,-20.959798333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11762">
+            <name>Trajet 382 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 382
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 7.9 km/h
+⚡ Vitesse max : 53.7 km/h
+🏔️ Altitude moyenne : 4622.7 m
+🔥 Indice de Stress : 0.36/1.0</description>
+            <styleUrl>#11763</styleUrl>
+            <LineString id="11761">
+                <coordinates>-68.747586667,-20.96944,0.0 -68.741438333,-20.969163333,0.0 -68.733301667,-20.969418333,0.0 -68.726501667,-20.970355,0.0 -68.722618333,-20.970896667,0.0 -68.719076667,-20.975315,0.0 -68.721678333,-20.977563333,0.0 -68.723726667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.723851667,-20.976655,0.0 -68.72195,-20.976056667,0.0 -68.718115,-20.979763333,0.0 -68.710488333,-20.983485,0.0 -68.704898333,-20.986183333,0.0 -68.699356667,-20.986163333,0.0 -68.69477,-20.985536667,0.0 -68.694433333,-20.985391667,0.0 -68.69439,-20.985361667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11766">
+            <name>DÉPART T382</name>
+            <description>Début de la mission 382
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11767</styleUrl>
+            <Point id="11765">
+                <coordinates>-68.747586667,-20.96944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11771">
+            <name>ARRIVÉE T382</name>
+            <description>Fin de la mission 382
+Destination atteinte.</description>
+            <styleUrl>#11772</styleUrl>
+            <Point id="11770">
+                <coordinates>-68.69439,-20.985361667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11776">
+            <name>Trajet 391 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 391
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 14.5 km/h
+⚡ Vitesse max : 28.0 km/h
+🏔️ Altitude moyenne : 4443.8 m
+🔥 Indice de Stress : 0.43/1.0</description>
+            <styleUrl>#11777</styleUrl>
+            <LineString id="11775">
+                <coordinates>-68.71161,-20.969273333,0.0 -68.711601667,-20.969361667,0.0 -68.710595,-20.97436,0.0 -68.710676667,-20.975841667,0.0 -68.71266,-20.974165,0.0 -68.713105,-20.971768333,0.0 -68.713588333,-20.971898333,0.0 -68.713855,-20.974411667,0.0 -68.71338,-20.976955,0.0 -68.714898333,-20.974556667,0.0 -68.715331667,-20.971981667,0.0 -68.71615,-20.969481667,0.0 -68.716786667,-20.96979,0.0 -68.718798333,-20.970998333,0.0 -68.722113333,-20.970655,0.0 -68.726818333,-20.971496667,0.0 -68.729663333,-20.972075,0.0 -68.73311,-20.972551667,0.0 -68.736186667,-20.97296,0.0 -68.738841667,-20.97392,0.0 -68.73568,-20.974025,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11780">
+            <name>DÉPART T391</name>
+            <description>Début de la mission 391
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11781</styleUrl>
+            <Point id="11779">
+                <coordinates>-68.71161,-20.969273333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11785">
+            <name>ARRIVÉE T391</name>
+            <description>Fin de la mission 391
+Destination atteinte.</description>
+            <styleUrl>#11786</styleUrl>
+            <Point id="11784">
+                <coordinates>-68.73568,-20.974025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11790">
+            <name>Trajet 400 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 400
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 23.5 km/h
+⚡ Vitesse max : 46.7 km/h
+🏔️ Altitude moyenne : 4694.7 m
+🔥 Indice de Stress : 0.50/1.0</description>
+            <styleUrl>#11791</styleUrl>
+            <LineString id="11789">
+                <coordinates>-68.734325,-20.974645,0.0 -68.735123333,-20.975765,0.0 -68.733786667,-20.98058,0.0 -68.725253333,-20.979396667,0.0 -68.71638,-20.980548333,0.0 -68.709458333,-20.983858333,0.0 -68.704525,-20.986398333,0.0 -68.70015,-20.986208333,0.0 -68.695703333,-20.98573,0.0 -68.694503333,-20.985758333,0.0 -68.694238333,-20.985678333,0.0 -68.694238333,-20.985678333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11794">
+            <name>DÉPART T400</name>
+            <description>Début de la mission 400
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11795</styleUrl>
+            <Point id="11793">
+                <coordinates>-68.734325,-20.974645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11799">
+            <name>ARRIVÉE T400</name>
+            <description>Fin de la mission 400
+Destination atteinte.</description>
+            <styleUrl>#11800</styleUrl>
+            <Point id="11798">
+                <coordinates>-68.694238333,-20.985678333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11804">
+            <name>Trajet 409 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 409
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 12.6 km/h
+⚡ Vitesse max : 43.0 km/h
+🏔️ Altitude moyenne : 4510.0 m
+🔥 Indice de Stress : 0.42/1.0</description>
+            <styleUrl>#11805</styleUrl>
+            <LineString id="11803">
+                <coordinates>-68.701891667,-20.967926667,0.0 -68.694825,-20.975285,0.0 -68.701473333,-20.964265,0.0 -68.70397,-20.963413333,0.0 -68.708345,-20.962808333,0.0 -68.709721667,-20.960786667,0.0 -68.708923333,-20.95977,0.0 -68.708381667,-20.960028333,0.0 -68.708351667,-20.95987,0.0 -68.708351667,-20.95987,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11808">
+            <name>DÉPART T409</name>
+            <description>Début de la mission 409
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11809</styleUrl>
+            <Point id="11807">
+                <coordinates>-68.701891667,-20.967926667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11813">
+            <name>ARRIVÉE T409</name>
+            <description>Fin de la mission 409
+Destination atteinte.</description>
+            <styleUrl>#11814</styleUrl>
+            <Point id="11812">
+                <coordinates>-68.708351667,-20.95987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11818">
+            <name>Trajet 418 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 418
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 20.5 km/h
+⚡ Vitesse max : 47.0 km/h
+🏔️ Altitude moyenne : 4672.8 m
+🔥 Indice de Stress : 0.47/1.0</description>
+            <styleUrl>#11819</styleUrl>
+            <LineString id="11817">
+                <coordinates>-68.708348333,-20.959858333,0.0 -68.708348333,-20.959858333,0.0 -68.709663333,-20.961345,0.0 -68.704441667,-20.96159,0.0 -68.701725,-20.960293333,0.0 -68.695651667,-20.960361667,0.0 -68.691071667,-20.965041667,0.0 -68.687471667,-20.971476667,0.0 -68.682036667,-20.975491667,0.0 -68.680921667,-20.977816667,0.0 -68.687271667,-20.979025,0.0 -68.690756667,-20.98018,0.0 -68.68922,-20.977316667,0.0 -68.689193333,-20.97717,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11822">
+            <name>DÉPART T418</name>
+            <description>Début de la mission 418
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11823</styleUrl>
+            <Point id="11821">
+                <coordinates>-68.708348333,-20.959858333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11827">
+            <name>ARRIVÉE T418</name>
+            <description>Fin de la mission 418
+Destination atteinte.</description>
+            <styleUrl>#11828</styleUrl>
+            <Point id="11826">
+                <coordinates>-68.689193333,-20.97717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11832">
+            <name>Trajet 427 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 427
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 12.2 km/h
+⚡ Vitesse max : 37.8 km/h
+🏔️ Altitude moyenne : 4574.1 m
+🔥 Indice de Stress : 0.42/1.0</description>
+            <styleUrl>#11833</styleUrl>
+            <LineString id="11831">
+                <coordinates>-68.706896667,-20.962731667,0.0 -68.709985,-20.961096667,0.0 -68.708923333,-20.959736667,0.0 -68.708923333,-20.959736667,0.0 -68.708368333,-20.959785,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11836">
+            <name>DÉPART T427</name>
+            <description>Début de la mission 427
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11837</styleUrl>
+            <Point id="11835">
+                <coordinates>-68.706896667,-20.962731667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11841">
+            <name>ARRIVÉE T427</name>
+            <description>Fin de la mission 427
+Destination atteinte.</description>
+            <styleUrl>#11842</styleUrl>
+            <Point id="11840">
+                <coordinates>-68.708368333,-20.959785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11846">
+            <name>Trajet 436 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 436
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 27.2 km/h
+⚡ Vitesse max : 44.4 km/h
+🏔️ Altitude moyenne : 4285.3 m
+🔥 Indice de Stress : 0.52/1.0</description>
+            <styleUrl>#11847</styleUrl>
+            <LineString id="11845">
+                <coordinates>-68.708506667,-20.959345,0.0 -68.705143333,-20.962805,0.0 -68.697746667,-20.967651667,0.0 -68.694818333,-20.974056667,0.0 -68.696383333,-20.976965,0.0 -68.703998333,-20.979153333,0.0 -68.704145,-20.9781,0.0 -68.69853,-20.97419,0.0 -68.702025,-20.969971667,0.0 -68.701751667,-20.971005,0.0 -68.700858333,-20.972928333,0.0 -68.700876667,-20.973333333,0.0 -68.7009,-20.973386667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11850">
+            <name>DÉPART T436</name>
+            <description>Début de la mission 436
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11851</styleUrl>
+            <Point id="11849">
+                <coordinates>-68.708506667,-20.959345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11855">
+            <name>ARRIVÉE T436</name>
+            <description>Fin de la mission 436
+Destination atteinte.</description>
+            <styleUrl>#11856</styleUrl>
+            <Point id="11854">
+                <coordinates>-68.7009,-20.973386667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11860">
+            <name>Trajet 444 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 444
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 7.3 km/h
+⚡ Vitesse max : 30.6 km/h
+🏔️ Altitude moyenne : 4751.6 m
+🔥 Indice de Stress : 0.35/1.0</description>
+            <styleUrl>#11861</styleUrl>
+            <LineString id="11859">
+                <coordinates>-68.724091667,-20.976613333,0.0 -68.724028333,-20.976648333,0.0 -68.724013333,-20.976658333,0.0 -68.723968333,-20.976666667,0.0 -68.72392,-20.976675,0.0 -68.723965,-20.976661667,0.0 -68.72396,-20.976678333,0.0 -68.723923333,-20.976703333,0.0 -68.723923333,-20.976703333,0.0 -68.723913333,-20.976766667,0.0 -68.723845,-20.976725,0.0 -68.723903333,-20.976765,0.0 -68.720853333,-20.97819,0.0 -68.71401,-20.981306667,0.0 -68.70757,-20.984858333,0.0 -68.702073333,-20.986418333,0.0 -68.696651667,-20.985733333,0.0 -68.694448333,-20.985031667,0.0 -68.694448333,-20.985031667,0.0 -68.694175,-20.985225,0.0 -68.694111667,-20.98548,0.0 -68.694113333,-20.98548,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11864">
+            <name>DÉPART T444</name>
+            <description>Début de la mission 444
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11865</styleUrl>
+            <Point id="11863">
+                <coordinates>-68.724091667,-20.976613333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11869">
+            <name>ARRIVÉE T444</name>
+            <description>Fin de la mission 444
+Destination atteinte.</description>
+            <styleUrl>#11870</styleUrl>
+            <Point id="11868">
+                <coordinates>-68.694113333,-20.98548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11874">
+            <name>Trajet 453 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 453
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 18.2 km/h
+⚡ Vitesse max : 34.3 km/h
+🏔️ Altitude moyenne : 4629.8 m
+🔥 Indice de Stress : 0.46/1.0</description>
+            <styleUrl>#11875</styleUrl>
+            <LineString id="11873">
+                <coordinates>-68.695576667,-20.981685,0.0 -68.695568333,-20.981683333,0.0 -68.695568333,-20.981683333,0.0 -68.69651,-20.98223,0.0 -68.698546667,-20.983478333,0.0 -68.701515,-20.985191667,0.0 -68.70688,-20.984806667,0.0 -68.711293333,-20.983326667,0.0 -68.715021667,-20.980863333,0.0 -68.720298333,-20.97911,0.0 -68.726463333,-20.980008333,0.0 -68.729865,-20.98104,0.0 -68.733663333,-20.980835,0.0 -68.736115,-20.97912,0.0 -68.734716667,-20.974311667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11878">
+            <name>DÉPART T453</name>
+            <description>Début de la mission 453
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11879</styleUrl>
+            <Point id="11877">
+                <coordinates>-68.695576667,-20.981685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11883">
+            <name>ARRIVÉE T453</name>
+            <description>Fin de la mission 453
+Destination atteinte.</description>
+            <styleUrl>#11884</styleUrl>
+            <Point id="11882">
+                <coordinates>-68.734716667,-20.974311667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11888">
+            <name>Trajet 462 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 462
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 24.1 km/h
+⚡ Vitesse max : 45.2 km/h
+🏔️ Altitude moyenne : 4309.8 m
+🔥 Indice de Stress : 0.50/1.0</description>
+            <styleUrl>#11889</styleUrl>
+            <LineString id="11887">
+                <coordinates>-68.708381667,-20.9599,0.0 -68.709058333,-20.962625,0.0 -68.6998,-20.965285,0.0 -68.695406667,-20.9711,0.0 -68.705565,-20.978853333,0.0 -68.69867,-20.973481667,0.0 -68.703536667,-20.970875,0.0 -68.704198333,-20.96983,0.0 -68.70397,-20.96976,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11892">
+            <name>DÉPART T462</name>
+            <description>Début de la mission 462
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11893</styleUrl>
+            <Point id="11891">
+                <coordinates>-68.708381667,-20.9599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11897">
+            <name>ARRIVÉE T462</name>
+            <description>Fin de la mission 462
+Destination atteinte.</description>
+            <styleUrl>#11898</styleUrl>
+            <Point id="11896">
+                <coordinates>-68.70397,-20.96976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11902">
+            <name>Trajet 471 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 471
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 21.9 km/h
+⚡ Vitesse max : 50.6 km/h
+🏔️ Altitude moyenne : 4678.2 m
+🔥 Indice de Stress : 0.49/1.0</description>
+            <styleUrl>#11903</styleUrl>
+            <LineString id="11901">
+                <coordinates>-68.694215,-20.985271667,0.0 -68.697355,-20.985975,0.0 -68.700941667,-20.986516667,0.0 -68.704338333,-20.986663333,0.0 -68.707335,-20.985133333,0.0 -68.712735,-20.982493333,0.0 -68.717523333,-20.980415,0.0 -68.726681667,-20.980066667,0.0 -68.73062,-20.981421667,0.0 -68.734351667,-20.980585,0.0 -68.736006667,-20.977763333,0.0 -68.734473333,-20.974265,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11906">
+            <name>DÉPART T471</name>
+            <description>Début de la mission 471
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11907</styleUrl>
+            <Point id="11905">
+                <coordinates>-68.694215,-20.985271667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11911">
+            <name>ARRIVÉE T471</name>
+            <description>Fin de la mission 471
+Destination atteinte.</description>
+            <styleUrl>#11912</styleUrl>
+            <Point id="11910">
+                <coordinates>-68.734473333,-20.974265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11916">
+            <name>Trajet 480 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 480
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 24.3 km/h
+⚡ Vitesse max : 43.0 km/h
+🏔️ Altitude moyenne : 4309.5 m
+🔥 Indice de Stress : 0.50/1.0</description>
+            <styleUrl>#11917</styleUrl>
+            <LineString id="11915">
+                <coordinates>-68.708331667,-20.959836667,0.0 -68.70972,-20.96145,0.0 -68.703738333,-20.963243333,0.0 -68.697243333,-20.968213333,0.0 -68.694856667,-20.974118333,0.0 -68.698746667,-20.978581667,0.0 -68.705658333,-20.97884,0.0 -68.702568333,-20.977751667,0.0 -68.698755,-20.97353,0.0 -68.70333,-20.969431667,0.0 -68.70069,-20.97263,0.0 -68.700736667,-20.973535,0.0 -68.700601667,-20.973675,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11920">
+            <name>DÉPART T480</name>
+            <description>Début de la mission 480
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11921</styleUrl>
+            <Point id="11919">
+                <coordinates>-68.708331667,-20.959836667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11925">
+            <name>ARRIVÉE T480</name>
+            <description>Fin de la mission 480
+Destination atteinte.</description>
+            <styleUrl>#11926</styleUrl>
+            <Point id="11924">
+                <coordinates>-68.700601667,-20.973675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11930">
+            <name>Trajet 489 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 489
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 9.6 km/h
+⚡ Vitesse max : 43.5 km/h
+🏔️ Altitude moyenne : 4408.9 m
+🔥 Indice de Stress : 0.39/1.0</description>
+            <styleUrl>#11931</styleUrl>
+            <LineString id="11929">
+                <coordinates>-68.703881667,-20.970075,0.0 -68.703165,-20.97089,0.0 -68.702808333,-20.970238333,0.0 -68.703518333,-20.96859,0.0 -68.698345,-20.974241667,0.0 -68.695326667,-20.974655,0.0 -68.69517,-20.973753333,0.0 -68.695536667,-20.971325,0.0 -68.69675,-20.968953333,0.0 -68.69959,-20.965876667,0.0 -68.701358333,-20.964288333,0.0 -68.703781667,-20.963455,0.0 -68.707841667,-20.962785,0.0 -68.709666667,-20.960698333,0.0 -68.70939,-20.96017,0.0 -68.70939,-20.96017,0.0 -68.708975,-20.959761667,0.0 -68.708975,-20.959761667,0.0 -68.708365,-20.959845,0.0 -68.708365,-20.959845,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11934">
+            <name>DÉPART T489</name>
+            <description>Début de la mission 489
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11935</styleUrl>
+            <Point id="11933">
+                <coordinates>-68.703881667,-20.970075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11939">
+            <name>ARRIVÉE T489</name>
+            <description>Fin de la mission 489
+Destination atteinte.</description>
+            <styleUrl>#11940</styleUrl>
+            <Point id="11938">
+                <coordinates>-68.708365,-20.959845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11944">
+            <name>Trajet 498 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 498
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 23.5 km/h
+⚡ Vitesse max : 45.7 km/h
+🏔️ Altitude moyenne : 4299.9 m
+🔥 Indice de Stress : 0.48/1.0</description>
+            <styleUrl>#11945</styleUrl>
+            <LineString id="11943">
+                <coordinates>-68.708355,-20.959933333,0.0 -68.707133333,-20.962605,0.0 -68.69989,-20.965121667,0.0 -68.69538,-20.971313333,0.0 -68.69737,-20.977626667,0.0 -68.703318333,-20.979181667,0.0 -68.706076667,-20.978675,0.0 -68.702725,-20.977755,0.0 -68.702698333,-20.969451667,0.0 -68.701736667,-20.97095,0.0 -68.700763333,-20.973615,0.0 -68.700716667,-20.973758333,0.0 -68.700716667,-20.973758333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11948">
+            <name>DÉPART T498</name>
+            <description>Début de la mission 498
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11949</styleUrl>
+            <Point id="11947">
+                <coordinates>-68.708355,-20.959933333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11953">
+            <name>ARRIVÉE T498</name>
+            <description>Fin de la mission 498
+Destination atteinte.</description>
+            <styleUrl>#11954</styleUrl>
+            <Point id="11952">
+                <coordinates>-68.700716667,-20.973758333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11958">
+            <name>Trajet 507 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 507
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 15.5 km/h
+⚡ Vitesse max : 35.4 km/h
+🏔️ Altitude moyenne : 4466.6 m
+🔥 Indice de Stress : 0.43/1.0</description>
+            <styleUrl>#11959</styleUrl>
+            <LineString id="11957">
+                <coordinates>-68.71157,-20.968765,0.0 -68.711493333,-20.971631667,0.0 -68.710006667,-20.975385,0.0 -68.711886667,-20.975481667,0.0 -68.712916667,-20.97314,0.0 -68.713255,-20.970693333,0.0 -68.713708333,-20.973118333,0.0 -68.713891667,-20.975433333,0.0 -68.714438333,-20.976376667,0.0 -68.71502,-20.974038333,0.0 -68.715466667,-20.971678333,0.0 -68.715985,-20.969063333,0.0 -68.714946667,-20.966041667,0.0 -68.713806667,-20.963705,0.0 -68.711423333,-20.962561667,0.0 -68.713873333,-20.96183,0.0 -68.717611667,-20.959061667,0.0 -68.71501,-20.957218333,0.0 -68.71238,-20.956785,0.0 -68.71554,-20.95606,0.0 -68.717961667,-20.954816667,0.0 -68.714936667,-20.954501667,0.0 -68.717626667,-20.953925,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11962">
+            <name>DÉPART T507</name>
+            <description>Début de la mission 507
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11963</styleUrl>
+            <Point id="11961">
+                <coordinates>-68.71157,-20.968765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11967">
+            <name>ARRIVÉE T507</name>
+            <description>Fin de la mission 507
+Destination atteinte.</description>
+            <styleUrl>#11968</styleUrl>
+            <Point id="11966">
+                <coordinates>-68.717626667,-20.953925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11972">
+            <name>Trajet 516 | Niveau 2 : FAIBLE</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 516
+--------------------------------------
+🛡️ Diagnostic : Niveau 2 : FAIBLE
+🚛 État de charge : VIDE (Retour)
+🚀 Vitesse moyenne : 4.5 km/h
+⚡ Vitesse max : 36.7 km/h
+🏔️ Altitude moyenne : 4616.4 m
+🔥 Indice de Stress : 0.32/1.0</description>
+            <styleUrl>#11973</styleUrl>
+            <LineString id="11971">
+                <coordinates>-68.72432,-20.958321667,0.0 -68.723833333,-20.958228333,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723301667,-20.958291667,0.0 -68.723713333,-20.959266667,0.0 -68.726435,-20.956853333,0.0 -68.72265,-20.956581667,0.0 -68.718026667,-20.95821,0.0 -68.714051667,-20.961533333,0.0 -68.717648333,-20.963783333,0.0 -68.722838333,-20.967351667,0.0 -68.724016667,-20.969885,0.0 -68.719508333,-20.97324,0.0 -68.717806667,-20.979105,0.0 -68.71721,-20.980593333,0.0 -68.724008333,-20.978246667,0.0 -68.724433333,-20.978351667,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724446667,-20.978468333,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724478333,-20.97847,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724475,-20.978465,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.724451667,-20.978456667,0.0 -68.725281667,-20.979133333,0.0 -68.725076667,-20.979378333,0.0 -68.720661667,-20.978686667,0.0 -68.715306667,-20.980676667,0.0 -68.709925,-20.983693333,0.0 -68.703461667,-20.985421667,0.0 -68.698456667,-20.983258333,0.0 -68.69617,-20.982141667,0.0 -68.69617,-20.982141667,0.0 -68.695488333,-20.98192,0.0 -68.695318333,-20.98181,0.0 -68.69532,-20.981768333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11976">
+            <name>DÉPART T516</name>
+            <description>Début de la mission 516
+Charge : VIDE (Retour)</description>
+            <styleUrl>#11977</styleUrl>
+            <Point id="11975">
+                <coordinates>-68.72432,-20.958321667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11981">
+            <name>ARRIVÉE T516</name>
+            <description>Fin de la mission 516
+Destination atteinte.</description>
+            <styleUrl>#11982</styleUrl>
+            <Point id="11980">
+                <coordinates>-68.69532,-20.981768333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11986">
+            <name>Trajet 525 | Niveau 3 : MODÉRÉ</name>
+            <description>📋 RAPPORT DE MISSION - TRAJET 525
+--------------------------------------
+🛡️ Diagnostic : Niveau 3 : MODÉRÉ
+🚛 État de charge : PLEIN (Chargé)
+🚀 Vitesse moyenne : 13.6 km/h
+⚡ Vitesse max : 24.8 km/h
+🏔️ Altitude moyenne : 4402.6 m
+🔥 Indice de Stress : 0.42/1.0</description>
+            <styleUrl>#11987</styleUrl>
+            <LineString id="11985">
+                <coordinates>-68.711343333,-20.968685,0.0 -68.710681667,-20.972876667,0.0 -68.709505,-20.97596,0.0 -68.712335,-20.975263333,0.0 -68.712951667,-20.973168333,0.0 -68.713201667,-20.971078333,0.0 -68.713685,-20.972671667,0.0 -68.713913333,-20.974865,0.0 -68.713625,-20.976916667,0.0 -68.714908333,-20.974778333,0.0 -68.715211667,-20.972475,0.0 -68.716028333,-20.970436667,0.0 -68.71544,-20.967336667,0.0 -68.7146,-20.965273333,0.0 -68.7133,-20.963336667,0.0 -68.711251667,-20.962198333,0.0 -68.714863333,-20.962518333,0.0 -68.716433333,-20.957376667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11990">
+            <name>DÉPART T525</name>
+            <description>Début de la mission 525
+Charge : PLEIN (Chargé)</description>
+            <styleUrl>#11991</styleUrl>
+            <Point id="11989">
+                <coordinates>-68.711343333,-20.968685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11995">
+            <name>ARRIVÉE T525</name>
+            <description>Fin de la mission 525
+Destination atteinte.</description>
+            <styleUrl>#11996</styleUrl>
+            <Point id="11994">
+                <coordinates>-68.716433333,-20.957376667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
